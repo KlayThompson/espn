@@ -16,7 +16,7 @@ class HomeView extends GetView<HomeController> {
           children: [
             ListTile(
               leading: Icon(Icons.score),
-              title: Text('text'),
+              title: Text('text1'),
             )
           ],
         ),
