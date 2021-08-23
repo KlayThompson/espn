@@ -17,6 +17,12 @@ class HomeView extends GetView<HomeController> {
           return Text(_.count.toString());
         }),
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Get.snackbar('title', 'message', colorText: ColorConfig.white, backgroundColor: Colors.orange);
+        },
+        child: Icon(Icons.add),
+      ),
     );
   }
 }

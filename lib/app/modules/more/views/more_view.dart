@@ -1,9 +1,12 @@
+import 'package:espn/app/modules/more/views/more_section_card_view.dart';
+import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 
 import '../controllers/more_controller.dart';
+import '../more_model.dart';
 
 class MoreView extends GetView<MoreController> {
   final MoreController m = Get.put(MoreController());
@@ -27,33 +30,28 @@ class MoreView extends GetView<MoreController> {
           if (_.loading) {
             return _LoadingView();
           } else {
-            return Column(
-              children: [
-                Text(
-                  'MoreView is working${_.moreSection.sectionList![0].label}',
-                  style: TextStyle(fontSize: 20),
-                ),
-                Card(
-                  child: Container(
-                    width: 300,
-                    child: Column(
-                      children: [
-                        Text('${_.moreSection.sectionList![0].label}', style: TextStyle(fontSize: 20),),
-                        Container(
-                          width: 100,
-                          height: 1,
-                          color: Colors.black12,
-                        )
-                      ],
-                    ),
-                  ),
-                )
-              ],
+            return Container(
+              color: ColorConfig.bgColor,
+              child: ListView(
+                padding: EdgeInsets.only(top: 10, bottom: 10),
+                children: _moreSports(_.moreSection.sectionList),
+              ),
             );
           }
         },
       ),
     );
+  }
+
+  List<Widget> _moreSports(List<SectionList>? sectionList) {
+    List<Widget> list = [];
+    SectionList sl = SectionList(label: 'FAVORITES', image: '', sectionItems:
+    [SectionItems(label: 'NBA', image: 'https://secure.espncdn.com/i/teamlogos/leagues/500/nba.png')]);
+    list.add(MoreSectionCardView(sectionItem: sl));
+    sectionList!.forEach((element) {
+      list.add(MoreSectionCardView(sectionItem: element));
+    });
+    return list;
   }
 
   Widget _LoadingView() {

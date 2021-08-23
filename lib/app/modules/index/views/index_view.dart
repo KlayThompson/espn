@@ -6,6 +6,7 @@ import 'package:espn/app/modules/watch/views/watch_view.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'package:get/get.dart';
 
@@ -14,6 +15,13 @@ import '../controllers/index_controller.dart';
 class IndexView extends GetView<IndexController> {
   @override
   Widget build(BuildContext context) {
+    //设置尺寸（填写设计中设备的屏幕尺寸）如果设计基于360dp * 690dp的屏幕
+    ScreenUtil.init(
+        BoxConstraints(
+            maxWidth: MediaQuery.of(context).size.width,
+            maxHeight: MediaQuery.of(context).size.height),
+        designSize: Size(375, 667),
+        orientation: Orientation.portrait);
     return GetBuilder<IndexController>(
       builder: (_) {
         return Theme( // 包一层去除水波纹效果
