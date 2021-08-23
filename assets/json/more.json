@@ -1,0 +1,1947 @@
+{
+  "sectionList": [
+    {
+      "label": "All Sports",
+      "includeRecentsSection": "true",
+      "image": "iconfont://&#65;",
+      "sectionItems": [
+        {
+          "label": "NFL",
+          "uid": "s:20~l:28",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/nfl.png"
+        },
+        {
+          "label": "NCAA Football",
+          "uid": "s:20~l:23",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23"
+          },
+          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png"
+        },
+        {
+          "label": "MLB",
+          "uid": "s:1~l:10",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/mlb.png"
+        },
+        {
+          "label": "NBA",
+          "uid": "s:40~l:46",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/nba.png"
+        },
+        {
+          "label": "NHL",
+          "uid": "s:70~l:90",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:90"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/nhl.png"
+        },
+        {
+          "label": "UFC",
+          "uid": "s:3301~l:3321",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:3301~l:3321"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/ufc.png"
+        },
+        {
+          "label": "Olympics",
+          "uid": "s:3700",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:3700"
+          },
+          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-olympics.png"
+        },
+        {
+          "label": "WNBA",
+          "uid": "s:40~l:59",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:59"
+          },
+          "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+          "image-dark": "https://a.espncdn.com/i/teamlogos/leagues/500-dark/wnba.png"
+        },
+        {
+          "label": "Top Soccer",
+          "uid": "content:top_soccer",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=content:top_soccer"
+          },
+          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+        },
+        {
+          "label": "NCAA Men's Basketball",
+          "uid": "s:40~l:41",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41"
+          },
+          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-basketball.png"
+        },
+        {
+          "label": "English Premier League",
+          "uid": "s:600~l:700",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:700"
+          },
+          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/23.png",
+          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/PremierLeagueSoccer.png"
+        },
+        {
+          "label": "NCAA Women's Basketball",
+          "uid": "s:40~l:54",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:54"
+          },
+          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-basketball.png"
+        },
+        {
+          "label": "Major League Soccer",
+          "uid": "s:600~l:770",
+          "action": {
+            "type": "internalLink",
+            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:770"
+          },
+          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/19.png"
+        },
+        {
+          "label": "More Sports",
+          "image": "iconfont://&#65;",
+          "children": {
+            "data": {
+              "sections": [{
+                "items": [{
+                  "label": "European Championship",
+                  "leagueAbbreviation": "SOC (M)",
+                  "uid": "s:600~l:781",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:781"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/74.png"
+                }, {
+                  "label": "Copa America",
+                  "leagueAbbreviation": "SOC (M)",
+                  "uid": "s:600~l:780",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:780"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/83.png"
+                }, {
+                  "label": "CONCACAF Gold Cup",
+                  "leagueAbbreviation": "SOC (M)",
+                  "uid": "s:600~l:4004",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:4004"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/59.png"
+                }, {
+                  "label": "UEFA Champions League",
+                  "uid": "s:600~l:775",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:775"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/2.png"
+                }, {
+                  "label": "Major League Soccer",
+                  "uid": "s:600~l:770",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:770"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/19.png"
+                }, {
+                  "label": "MMA",
+                  "uid": "s:3301",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:3301"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-mma.png"
+                }, {
+                  "label": "Professional Fighters League",
+                  "uid": "s:3301~l:3347",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:3301~l:3347"
+                  },
+                  "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/pfl.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500-dark/pfl.png"
+                }, {
+                  "label": "Tennis",
+                  "uid": "s:850",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:850"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-tennis.png"
+                }, {
+                  "label": "Men's Tennis",
+                  "uid": "s:850~l:851",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:850~l:851"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-tennis.png"
+                }, {
+                  "label": "Women's Tennis",
+                  "uid": "s:850~l:900",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:850~l:900"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-tennis.png"
+                }, {
+                  "label": "Golf",
+                  "uid": "s:1100",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1100"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-golf.png"
+                }, {
+                  "label": "Men's Golf",
+                  "uid": "s:1100~l:1106",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1100~l:1106"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-golf.png"
+                }, {
+                  "label": "Women's Golf",
+                  "uid": "s:1100~l:1107",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1100~l:1107"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-golf.png"
+                }, {
+                  "label": "Chalk",
+                  "uid": "content:espn_chalk",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=content:espn_chalk"
+                  },
+                  "image": "https://secure.espncdn.com/i/espn/networks_shows/500/espn_chalk.png"
+                }, {
+                  "label": "XFL",
+                  "uid": "s:20~l:36",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:36"
+                  },
+                  "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/xfl.png"
+                }, {
+                  "label": "NBA G League",
+                  "uid": "s:40~l:69",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:69"
+                  },
+                  "image": "https://secure.espncdn.com/i/teamlogos/leagues/500/nba_gleague.png"
+                }, {
+                  "label": "NBA Summer League",
+                  "uid": "s:40~l:62",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:62"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-basketball.png"
+                }, {
+                  "label": "XGames",
+                  "uid": "s:3190~l:8098",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:3190~l:8098"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-xgames.png",
+                  "image-dark": "http://a3.espncdn.com/redesign/assets/img/icons/dark/ESPN-icon-xgames.png"
+                }, {
+                  "label": "Esports",
+                  "uid": "s:8367",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8367"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-esports.png",
+                  "image-dark": "http://a3.espncdn.com/redesign/assets/img/icons/dark/ESPN-icon-esports.png"
+                }, {
+                  "label": "Boxing",
+                  "uid": "s:1000",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1000"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-boxing.png"
+                }, {
+                  "label": "WWE",
+                  "uid": "s:1650~l:1652",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1650~l:1652"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/logos/wwe.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/wwe/500-dark/WWE.png"
+                }, {
+                  "label": "Spanish LaLiga",
+                  "uid": "s:600~l:740",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/15.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/15.png"
+                }, {
+                  "label": "Mexican Liga Bancomer",
+                  "uid": "s:600~l:760",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:760"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/22.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/22.png"
+                }, {
+                  "label": "German Bundesliga",
+                  "uid": "s:600~l:720",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:720"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/10.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/10.png"
+                }, {
+                  "label": "Italian Serie A",
+                  "uid": "s:600~l:730",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:730"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/12.png"
+                }, {
+                  "label": "French Ligue 1",
+                  "uid": "s:600~l:710",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:710"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/9.png",
+                  "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/9.png"
+                }, {
+                  "label": "USL Championship",
+                  "uid": "s:600~l:4002",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:4002"
+                  },
+                  "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2292.png"
+                }, {
+                  "label": "NWSL",
+                  "uid": "s:600~l:8301",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8301"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                }, {
+                  "label": "More Soccer Leagues",
+                  "image": "http://a3.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png",
+                  "children": {
+                    "data": {
+                      "sections": [{
+                        "items": [{
+                          "label": "Major League Soccer",
+                          "uid": "s:600~l:770",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:770"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/19.png"
+                        }, {
+                          "label": "NWSL",
+                          "uid": "s:600~l:8301",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8301"
+                          }
+                        }, {
+                          "label": "English Premier League",
+                          "uid": "s:600~l:700",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:700"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/23.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/PremierLeagueSoccer.png"
+                        }, {
+                          "label": "Spanish LaLiga",
+                          "uid": "s:600~l:740",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/15.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/15.png"
+                        }, {
+                          "label": "German Bundesliga",
+                          "uid": "s:600~l:720",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:720"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/10.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/10.png"
+                        }, {
+                          "label": "Italian Serie A",
+                          "uid": "s:600~l:730",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:730"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/12.png"
+                        }, {
+                          "label": "French Ligue 1",
+                          "uid": "s:600~l:710",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:710"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/9.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/9.png"
+                        }, {
+                          "label": "Mexican Liga Bancomer",
+                          "uid": "s:600~l:760",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:760"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/22.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/22.png"
+                        }, {
+                          "label": "USL Championship",
+                          "uid": "s:600~l:4002",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:4002"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2292.png"
+                        }, {
+                          "label": "North American Soccer League",
+                          "uid": "s:600~l:8311",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8311"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "English League Championship",
+                          "uid": "s:600~l:3914",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/24.png"
+                        }, {
+                          "label": "Portuguese Liga",
+                          "uid": "s:600~l:715",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:715"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/14.png"
+                        }, {
+                          "label": "Dutch Eredivisie",
+                          "uid": "s:600~l:725",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:725"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/11.png"
+                        }, {
+                          "label": "Australian A-League",
+                          "uid": "s:600~l:3906",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3906"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1308.png&transparent=true"
+                        }, {
+                          "label": "Indian Super League",
+                          "uid": "s:600~l:8316",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8316"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2334.png"
+                        }, {
+                          "label": "Turkish Super Lig",
+                          "uid": "s:600~l:3946",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3946"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/18.png"
+                        }, {
+                          "label": "Scottish Premiership",
+                          "uid": "s:600~l:735",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:735"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/45.png"
+                        }, {
+                          "label": "Russian Premier League",
+                          "uid": "s:600~l:3939",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3939"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/106.png"
+                        }, {
+                          "label": "Greek Super League",
+                          "uid": "s:600~l:3955",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3955"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Belgian Jupiler League",
+                          "uid": "s:600~l:3901",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3901"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F6.png&transparent=true"
+                        }, {
+                          "label": "Danish SAS-Ligaen",
+                          "uid": "s:600~l:3913",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3913"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Austrian Bundesliga",
+                          "uid": "s:600~l:3907",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3907"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F5.png&transparent=true"
+                        }, {
+                          "label": "Swedish Allsvenskanliga",
+                          "uid": "s:600~l:3945",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3945"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Swiss Super League",
+                          "uid": "s:600~l:3944",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3944"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Northern Irish Premiership",
+                          "uid": "s:600~l:3958",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3958"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "League of Ireland Premier Division",
+                          "uid": "s:600~l:3930",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3930"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Welsh Premier League",
+                          "uid": "s:600~l:3963",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3963"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Brasileiro",
+                          "uid": "s:600~l:630",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:630"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png"
+                        }, {
+                          "label": "Primera División de Argentina",
+                          "uid": "s:600~l:745",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:745"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png&transparent=true"
+                        }, {
+                          "label": "Jamaica Premier League",
+                          "uid": "s:600~l:8347",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8347"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2344.png&transparent=true"
+                        }, {
+                          "label": "Fútbol Profesional Colombiano",
+                          "uid": "s:600~l:650",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:650"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1543.png&transparent=true"
+                        }, {
+                          "label": "Liga Profesional Boliviana",
+                          "uid": "s:600~l:620",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:620"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1949.png&transparent=true"
+                        }, {
+                          "label": "Primera A de Ecuador",
+                          "uid": "s:600~l:660",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:660"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1944.png&transparent=true"
+                        }, {
+                          "label": "Primera División de Paraguay",
+                          "uid": "s:600~l:3934",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3934"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Primera División de Uruguay",
+                          "uid": "s:600~l:680",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:680"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1592.png&transparent=true"
+                        }, {
+                          "label": "Primera División de Venezuela",
+                          "uid": "s:600~l:3949",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3949"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1947.png&transparent=true"
+                        }, {
+                          "label": "Japanese J League",
+                          "uid": "s:600~l:750",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:750"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Singapore S-League",
+                          "uid": "s:600~l:8341",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8341"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2338.png&transparent=true"
+                        }, {
+                          "label": "Malaysian Super League",
+                          "uid": "s:600~l:8340",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:8340"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2340.png&transparent=true"
+                        }]
+                      }]
+                    }
+                  }
+                }, {
+                  "label": "More Soccer Cups",
+                  "image": "http://a3.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png",
+                  "children": {
+                    "data": {
+                      "sections": [{
+                        "items": [{
+                          "label": "European Championship",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:781",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:781"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/74.png"
+                        }, {
+                          "label": "Copa America",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:780",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:780"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/83.png"
+                        }, {
+                          "label": "CONCACAF Gold Cup",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:4004",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:4004"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/59.png"
+                        }, {
+                          "label": "Olympic Games - Women",
+                          "uid": "s:600~l:3925",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3925"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Olympic Games - Men",
+                          "uid": "s:600~l:3924",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3924"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "UEFA Champions League",
+                          "uid": "s:600~l:775",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:775"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/2.png"
+                        }, {
+                          "label": "UEFA Europa League",
+                          "uid": "s:600~l:776",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:776"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/EUROPA.PNG"
+                        }, {
+                          "label": "English FA Cup",
+                          "uid": "s:600~l:3918",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3918"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/40.png"
+                        }, {
+                          "label": "Carabao Cup",
+                          "uid": "s:600~l:3920",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3920"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/41.png"
+                        }, {
+                          "label": "Spanish Copa del Rey",
+                          "uid": "s:600~l:3951",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3951"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png&transparent=true"
+                        }, {
+                          "label": "German DFB Pokal",
+                          "uid": "s:600~l:3954",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3954"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Italian Coppa Italia",
+                          "uid": "s:600~l:3956",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3956"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "French Coupe de France",
+                          "uid": "s:600~l:3952",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3952"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "CONCACAF Champions League",
+                          "uid": "s:600~l:5699",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:5699"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "UEFA Women's Champions League",
+                          "uid": "s:600~l:19483",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:19483"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/2408.png",
+                          "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/2408.png"
+                        }, {
+                          "label": "World Cup Qualifying - CONCACAF",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:788",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:788"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png"
+                        }, {
+                          "label": "World Cup Qualifying - UEFA",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:786",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:786"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F67.png"
+                        }, {
+                          "label": "World Cup Qualifying - CONMEBOL",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:787",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:787"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F65.png"
+                        }, {
+                          "label": "World Cup Qualifying - CAF",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:790",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:790"
+                          },
+                          "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F67.png"
+                        }, {
+                          "label": "World Cup Qualifying - AFC",
+                          "leagueAbbreviation": "SOC (M)",
+                          "uid": "s:600~l:789",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:789"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "European U-21 Championship",
+                          "leagueAbbreviation": "SOC (U21)",
+                          "uid": "s:600~l:5693",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:5693"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Copa Libertadores",
+                          "uid": "s:600~l:783",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:783"
+                          },
+                          "image": "https://secure.espncdn.com/i/leaguelogos/soccer/500/58.png"
+                        }]
+                      }]
+                    }
+                  }
+                }, {
+                  "label": "Racing",
+                  "uid": "s:2000",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:2000"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-nascar.png"
+                }, {
+                  "label": "Formula 1",
+                  "uid": "s:2000~l:2030",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:2000~l:2030"
+                  },
+                  "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Ff1.png"
+                }, {
+                  "label": "NASCAR Cup Series",
+                  "uid": "s:2000~l:2021",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:2000~l:2021"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-nascar.png"
+                }, {
+                  "label": "IndyCar Series",
+                  "uid": "s:2000~l:2040",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:2000~l:2040"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-nascar.png"
+                }, {
+                  "label": "NCAA Women's Softball",
+                  "uid": "s:100~l:102",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:100~l:102"
+                  },
+                  "image": "iconfont://&#73;"
+                }, {
+                  "label": "NCAA Men's Baseball",
+                  "uid": "s:1~l:14",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:14"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-baseball.png"
+                }, {
+                  "label": "More NCAA",
+                  "image": "iconfont://&#65;",
+                  "children": {
+                    "data": {
+                      "sections": [{
+                        "items": [{
+                          "label": "Men's Hockey",
+                          "uid": "s:70~l:91",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:91"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-hockey.png"
+                        }, {
+                          "label": "Women's Hockey",
+                          "uid": "s:70~l:92",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:70~l:92"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-hockey.png"
+                        }, {
+                          "label": "Men's College Soccer",
+                          "uid": "s:600~l:601",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:601"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Women's College Soccer",
+                          "uid": "s:600~l:602",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:602"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png"
+                        }, {
+                          "label": "Men's Lacrosse",
+                          "uid": "s:500~l:502",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:500~l:502"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-lacrosse.png"
+                        }, {
+                          "label": "Women's Lacrosse",
+                          "uid": "s:500~l:503",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:500~l:503"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-lacrosse.png"
+                        }, {
+                          "label": "Men's Water Polo",
+                          "uid": "s:1920~l:1925",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1920~l:1925"
+                          },
+                          "image": "iconfont://&#218;"
+                        }, {
+                          "label": "Women's Water Polo",
+                          "uid": "s:1920~l:1926",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1920~l:1926"
+                          },
+                          "image": "iconfont://&#218;"
+                        }, {
+                          "label": "Men's Volleyball",
+                          "uid": "s:400~l:401",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:400~l:401"
+                          },
+                          "image": "iconfont://&#352;"
+                        }, {
+                          "label": "Women's Volleyball",
+                          "uid": "s:400~l:402",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:400~l:402"
+                          },
+                          "image": "iconfont://&#352;"
+                        }]
+                      }]
+                    }
+                  }
+                }, {
+                  "label": "Cricket",
+                  "image": "iconfont://&#71;",
+                  "children": {
+                    "data": {
+                      "sections": [{
+                        "items": [{
+                          "label": "Top Cricket",
+                          "uid": "s:200",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                        }, {
+                          "label": "International Cricket Tours",
+                          "image": "iconfont://&#71;",
+                          "children": {
+                            "data": {
+                              "sections": [{
+                                "items": [{
+                                  "label": "World Test C'ship",
+                                  "uid": "s:200~l:19430",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:19430"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "England v India",
+                                  "uid": "s:200~l:19955",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:19955"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "England v Sri Lanka",
+                                  "uid": "s:200~l:19959",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:19959"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "England W v India W",
+                                  "uid": "s:200~l:20123",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20123"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "West Indies v South Africa",
+                                  "uid": "s:200~l:20156",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20156"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "England v Sri Lanka",
+                                  "uid": "s:200~l:20141",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20141"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "England v Pakistan",
+                                  "uid": "s:200~l:19958",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:19958"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "West Indies v Australia",
+                                  "uid": "s:200~l:20153",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20153"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "West Indies v Pakistan",
+                                  "uid": "s:200~l:20150",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20150"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Zimbabwe v Bangladesh",
+                                  "uid": "s:200~l:20211",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20211"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Ireland v South Africa",
+                                  "uid": "s:200~l:20024",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:20024"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC Women's Championship",
+                                  "uid": "s:200~l:8674",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8674"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }]
+                              }]
+                            }
+                          }
+                        }, {
+                          "label": "International Cricket Tournaments",
+                          "image": "iconfont://&#71;",
+                          "children": {
+                            "data": {
+                              "sections": [{
+                                "items": [{
+                                  "label": "ICC World Cup",
+                                  "leagueAbbreviation": "CRIC (M)",
+                                  "uid": "s:200~l:8039",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8039"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC Women's Cricket Twenty20 Challenge",
+                                  "leagueAbbreviation": "CRIC (W)",
+                                  "uid": "s:200~l:8634",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8634"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC Women's World Cup",
+                                  "leagueAbbreviation": "CRIC (W)",
+                                  "uid": "s:200~l:8584",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8584"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC World Twenty20",
+                                  "uid": "s:200~l:8604",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8604"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Champions Trophy",
+                                  "leagueAbbreviation": "CRIC (M)",
+                                  "uid": "s:200~l:8037",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8037"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC Under-19 World Cup",
+                                  "leagueAbbreviation": "CRIC (U19)",
+                                  "uid": "s:200~l:8368",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8368"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Asia Cup",
+                                  "leagueAbbreviation": "CRIC (M)",
+                                  "uid": "s:200~l:8532",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8532"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "ICC Women's Championship",
+                                  "leagueAbbreviation": "CRIC (W)",
+                                  "uid": "s:200~l:8674",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8674"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }]
+                              }]
+                            }
+                          }
+                        }, {
+                          "label": "Domestic Cricket Leagues",
+                          "image": "iconfont://&#71;",
+                          "children": {
+                            "data": {
+                              "sections": [{
+                                "items": [{
+                                  "label": "Indian Premier League",
+                                  "uid": "s:200~l:8048",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8048"
+                                  },
+                                  "image": "https://secure.espncdn.com/i/leaguelogos/cricket/500/968923.png"
+                                }, {
+                                  "label": "TNPL",
+                                  "uid": "s:200~l:10784",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:10784"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Vincy T10 Premier League",
+                                  "uid": "s:200~l:19840",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:19840"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Pakistan Super League",
+                                  "uid": "s:200~l:8679",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8679"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Twenty20 Big Bash",
+                                  "leagueAbbreviation": "CRIC (M)",
+                                  "uid": "s:200~l:8044",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8044"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Bangladesh Premier League",
+                                  "uid": "s:200~l:8653",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8653"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Caribbean Premier League",
+                                  "uid": "s:200~l:8623",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8623"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Duleep Trophy",
+                                  "uid": "s:200~l:8630",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8630"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Global T20 Canada",
+                                  "leagueAbbreviation": "CRIC (M)",
+                                  "uid": "s:200~l:18746",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:18746"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Vitality Blast",
+                                  "uid": "s:200~l:8053",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8053"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "County Championship Division One",
+                                  "uid": "s:200~l:8052",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8052"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "County Championship Division Two",
+                                  "uid": "s:200~l:8204",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8204"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Ranji Trophy",
+                                  "uid": "s:200~l:8050",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8050"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Sheffield Shield",
+                                  "uid": "s:200~l:8043",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8043"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "JLT One Day Cup",
+                                  "uid": "s:200~l:8626",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8626"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "National Cricket League",
+                                  "uid": "s:200~l:8814",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8814"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Afghanistan Premier League",
+                                  "uid": "s:200~l:18936",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:18936"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Royal London One Day Cup",
+                                  "uid": "s:200~l:8335",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8335"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Syed Mushtaq Ali Trophy",
+                                  "uid": "s:200~l:8661",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8661"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Duleep Trophy",
+                                  "uid": "s:200~l:8630",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8630"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Georgie Pie Super Smash",
+                                  "uid": "s:200~l:8654",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8654"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Plunket Shield",
+                                  "uid": "s:200~l:8828",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8828"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "The Ford Trophy",
+                                  "uid": "s:200~l:8880",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8880"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "National T20 Cup",
+                                  "uid": "s:200~l:8660",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8660"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Quaid-e-Azam Trophy",
+                                  "uid": "s:200~l:8840",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8840"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Premier Limited Over Tournament",
+                                  "uid": "s:200~l:8832",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8832"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Premier League Tournament",
+                                  "uid": "s:200~l:8829",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8829"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Bangladesh Cricket League",
+                                  "uid": "s:200~l:8701",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8701"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Sunfoil Series",
+                                  "uid": "s:200~l:8877",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8877"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Ram Slam",
+                                  "uid": "s:200~l:8656",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8656"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Momentum One Day Cup",
+                                  "uid": "s:200~l:8808",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8808"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Regional 4 Day Tournament",
+                                  "uid": "s:200~l:8893",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8893"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Logan Cup",
+                                  "uid": "s:200~l:8794",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8794"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }, {
+                                  "label": "Pro50 Championship",
+                                  "uid": "s:200~l:8838",
+                                  "action": {
+                                    "type": "internalLink",
+                                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:200~l:8838"
+                                  },
+                                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-cricket.png"
+                                }]
+                              }]
+                            }
+                          }
+                        }]
+                      }]
+                    }
+                  }
+                }, {
+                  "label": "Rugby",
+                  "image": "http://a3.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png",
+                  "children": {
+                    "data": {
+                      "sections": [{
+                        "items": [{
+                          "label": "Top Rugby",
+                          "uid": "s:300",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300"
+                          },
+                          "image": "http://a3.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Six Nations",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:8323",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8323"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Rugby International Friendlies",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:10659",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10659"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Rugby Championship",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:8328",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8328"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Rugby World Cup",
+                          "uid": "s:300~l:8337",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8337"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "British & Irish Lions Tour",
+                          "uid": "s:300~l:8016",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8016"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Aviva Premiership",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:8007",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8007"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Rugby Champions Cup",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:8329",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8329"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "European Rugby Challenge Cup",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:8010",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8010"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Super Rugby",
+                          "uid": "s:300~l:8326",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8326"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Top 14 Orange",
+                          "uid": "s:300~l:8005",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8005"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Guinness PRO14",
+                          "uid": "s:300~l:8331",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8331"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Anglo-Welsh Cup",
+                          "uid": "s:300~l:8009",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8009"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Currie Cup",
+                          "uid": "s:300~l:8002",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8002"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Mitre 10 Cup",
+                          "uid": "s:300~l:8004",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:8004"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "African CAR Championship",
+                          "uid": "s:300~l:10511",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10511"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Rugby World Cup Qualifier",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:10328",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10328"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Women's Rugby World Cup",
+                          "leagueAbbreviation": "RUG (W)",
+                          "uid": "s:300~l:17953",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:17953"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Olympic 7s (M)",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:10743",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10743"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Olympic 7s (W)",
+                          "leagueAbbreviation": "RUG (W)",
+                          "uid": "s:300~l:10729",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10729"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "IRB Pacific Nations Cup",
+                          "uid": "s:300~l:10656",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10656"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "IRB Nations Cup",
+                          "uid": "s:300~l:10655",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10655"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "FIRA Championship D2",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:10476",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10476"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }, {
+                          "label": "Asian 5 Nations - Top 5",
+                          "leagueAbbreviation": "RUG (M)",
+                          "uid": "s:300~l:10500",
+                          "action": {
+                            "type": "internalLink",
+                            "url": "sportscenter://x-callback-url/showClubhouse?uid=s:300~l:10500"
+                          },
+                          "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-rugby.png"
+                        }]
+                      }]
+                    }
+                  }
+                }, {
+                  "label": "World Baseball Classic",
+                  "uid": "s:1~l:3454",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:3454"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-baseball.png"
+                }, {
+                  "label": "Little League World Series",
+                  "uid": "s:1~l:2",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:2"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-baseball.png"
+                }, {
+                  "label": "Caribbean Series",
+                  "uid": "s:1~l:17",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:17"
+                  },
+                  "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-baseball.png"
+                }, {
+                  "label": "Badminton",
+                  "uid": "s:8373",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8373"
+                  },
+                  "image": "iconfont://&#59652;"
+                }, {
+                  "label": "Wrestling",
+                  "uid": "s:1650",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1650"
+                  },
+                  "image": "iconfont://&#59713;"
+                }, {
+                  "label": "Chess",
+                  "uid": "s:8372",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8372"
+                  },
+                  "image": "iconfont://&#59654;"
+                }, {
+                  "label": "Kabaddi",
+                  "uid": "s:8374",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8374"
+                  },
+                  "image": "iconfont://&#59658;"
+                }, {
+                  "label": "Snooker",
+                  "uid": "s:8319",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8319"
+                  },
+                  "image": "iconfont://&#57474;"
+                }, {
+                  "label": "Horse Racing",
+                  "uid": "s:1200",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1200"
+                  },
+                  "image": "iconfont://&#8220;"
+                }, {
+                  "label": "Cycling",
+                  "uid": "s:1300",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:1300"
+                  },
+                  "image": "iconfont://&#57471;"
+                }, {
+                  "label": "Super Netball",
+                  "uid": "s:8375~l:18935",
+                  "action": {
+                    "type": "internalLink",
+                    "url": "sportscenter://x-callback-url/showClubhouse?uid=s:8375~l:18935"
+                  },
+                  "image": "iconfont://&#352;"
+                }]
+              }]
+            }
+          }
+        }]
+    },
+    {
+      "label": "Listen",
+      "automationIdentifier": "browse.audio.header",
+      "sectionItems": [{
+        "label": "Audio Home",
+        "automationIdentifier": "browse.audio.home",
+        "uid": "content:listen",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/showClubhouse?uid=content:listen"
+        },
+        "image": "iconfont://&#43;"
+      }, {
+        "label": "Live Radio",
+        "automationIdentifier": "browse.audio.liveRadio",
+        "uid": "content:listen",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/showLiveStations"
+        },
+        "image": "iconfont://&#41;"
+      }, {
+        "label": "My Podcasts",
+        "automationIdentifier": "browse.audio.myPodcasts",
+        "uid": "content:listen",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/showMyPodcasts"
+        },
+        "image": "iconfont://&#64258;",
+        "requiresFavoritePodcasts": true
+      }, {
+        "label": "All Podcasts",
+        "automationIdentifier": "browse.audio.featPodcasts",
+        "uid": "content:listen",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/showPodcastCategories"
+        },
+        "image": "iconfont://&#xE94B;"
+      }]
+    },
+    {
+      "label": "Play",
+      "sectionItems": [{
+        "label": "Fantasy Football: Sign Up",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Ffootball%2Fwelcome%3Faddata%3Dmore_games_ffl2021"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+        "customItem": true
+      }, {
+        "label": "Games Home",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Ffree-prize-games"
+        },
+        "image": "iconfont://&#65;",
+        "customItem": true
+      }, {
+        "label": "Pigskin Pick'em",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fgames%2Fnfl-pigskin-pickem-2021%2Fmake-picks%3Fadddata%3Dpigskinpickem2021_nfl_espnapp_more"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+        "customItem": true
+      }, {
+        "label": "Eliminator Challenge",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fgames%2Fnfl-eliminator-challenge-2021%2Fmake-picks%3Fadddata%3Deliminatorchallenge2021_nfl_espnapp_more"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+        "customItem": true
+      }, {
+        "label": "College Pick'em",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fgames%2Fcollege-football-pickem-2021%2Fmake-picks%3Fadddata%3Dcollegepickem2021_ncaaf_espnapp_more"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+        "customItem": true
+      }, {
+        "label": "UFC Fight Night Pick'em",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fgames%2Fufc-fight-night-las-vegas-17-2021%2Fmake-picks%3Faddata%3Dufcfightnightlasvegas172021_ufc_espnapp_more"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-mma.png",
+        "customItem": true
+      }, {
+        "label": "Fantasy Basketball: Sign Up",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fbasketball%2Fwelcome%3Faddata%3Despn_app_play_fba2022"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-basketball.png",
+        "customItem": true
+      }, {
+        "label": "Fantasy Hockey: Sign Up",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fhockey%2Fwelcome%3Faddata%3Dfhl_2022_espn_app_play"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-hockey.png",
+        "customItem": true
+      }, {
+        "label": "English Soccer Pick'em",
+        "action": {
+          "type": "internalLink",
+          "url": "sportscenter://x-callback-url/loadURLInWebview?url=https%3A%2F%2Ffantasy.espn.com%2Fgames%2Fenglish-premier-league-pickem-2021%2Fmake-picks%3Faddata%3Denglishsoccerpickem2021_soccer_espnapp_more"
+        },
+        "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-soccer.png",
+        "customItem": true
+      }]
+    }
+  ]
+}

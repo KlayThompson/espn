@@ -1,12 +1,16 @@
+import 'package:espn/config/base_config.dart';
+import 'package:espn/config/service.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {
   //TODO: Implement HomeController
 
-  final count = 0.obs;
+  var count = 0;
   @override
   void onInit() {
     super.onInit();
+    print('init HomeController');
+    getHomeFeed();
   }
 
   @override
@@ -16,5 +20,10 @@ class HomeController extends GetxController {
 
   @override
   void onClose() {}
-  void increment() => count.value++;
+
+  getHomeFeed() async {
+    await requestData(ServerPath.homeFeed, 'get').then((value) => {
+      print(value)
+    });
+  }
 }

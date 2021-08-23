@@ -7,19 +7,15 @@ import 'package:get/get.dart';
 import '../controllers/home_controller.dart';
 
 class HomeView extends GetView<HomeController> {
+  final HomeController c = Get.put(HomeController());
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: _buildAppBar(),
       body: Center(
-        child: ListView(
-          children: [
-            ListTile(
-              leading: Icon(Icons.score),
-              title: Text('text1'),
-            )
-          ],
-        ),
+        child: GetBuilder<HomeController>(builder: (_) {
+          return Text(_.count.toString());
+        }),
       ),
     );
   }
