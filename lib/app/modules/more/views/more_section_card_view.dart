@@ -1,3 +1,4 @@
+import 'package:espn/app/routes/app_pages.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -14,9 +15,10 @@ class MoreSectionCardView extends GetView {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: SizeCongfig.screenWidth,
-      margin: EdgeInsets.only(left: 0),
+      width: SizeConfig.screenWidth,
+      padding: EdgeInsets.only(bottom: 10),
       child: Card(
+        margin: EdgeInsets.only(left: 0),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
         child: Column(
           children: [
@@ -32,7 +34,7 @@ class MoreSectionCardView extends GetView {
   // section header
   Widget _sectionHeader(bool showEdit) {
     return Container(
-      width: SizeCongfig.screenWidth,
+      width: SizeConfig.screenWidth,
       height: ScreenUtil().setHeight(52),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -44,7 +46,9 @@ class MoreSectionCardView extends GetView {
               children: [
                 Text(sectionItem.label.toString(), style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),),
                 InkWell(
-                  onTap: () {},
+                  onTap: () {
+                    Get.toNamed(Routes.EDIT_PREFERENCES);
+                  },
                   child: Text(showEdit ? 'Edit' : '', style: TextStyle(color: Colors.blue),),
                 )
               ],

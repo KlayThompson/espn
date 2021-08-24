@@ -33,7 +33,7 @@ class MoreView extends GetView<MoreController> {
             return Container(
               color: ColorConfig.bgColor,
               child: ListView(
-                padding: EdgeInsets.only(top: 10, bottom: 10),
+                padding: EdgeInsets.only(top: 10),
                 children: _moreSports(_.moreSection.sectionList),
               ),
             );

@@ -15,7 +15,14 @@ watch   featured  http://watch.product.api.espn.com/api/product/v3/mobile/espn/f
 more  https://sportscenter.api.espn.com/apis/espnapp/v1/sportsList?profile=sportscenter_v1&platform=ios&device=handset&version=68&lang=en&region=us&appName=espnapp  或者https://sportscenter.api.espn.com/apis/espnapp/v1/sportsList
 
 
+add player  https://sportscenter.fan.api.espn.com/apis/v1/browse/players?platform=ios&swid=bf3d27cb-8591-400c-8cb4-d83a0d9ae641&lang=en&region=us&profile=sportscenter_v1&device=handset&version=68&appName=espnapp&locale=CN&isPremium=false
 
+
+球队列表  https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=basketball&league=nba&name=NBA&page=1
+
+搜索球队   http://sportscenter.fan.api.espn.com/apis/v1/search?query=bull&excludeEvents=true&excludeVideos=true&excludeWatch=true&type=team&seeAll=true&lang=en&region=us&locale=CN&version=68&appName=espnapp&profile=sportscenter_v1&device=handset
+
+选择喜爱的球队 https://sportscenter.api.espn.com/apis/espnapp/v1/favoritesManagement?lang=en&region=us&profile=sportscenter_v1&platform=ios&device=handset&version=68&appName=espnapp&locale=CN&isPremium=false
 
 icon
 espn+ :https://secure.espncdn.com/watchespn/images/espnplus/paywalls/ESPN_PLUS.logo@2x.png

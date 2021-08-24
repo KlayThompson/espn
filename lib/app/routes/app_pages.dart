@@ -1,3 +1,5 @@
+import 'package:espn/app/modules/more/views/edit_preferences_view.dart';
+import 'package:espn/app/modules/more/views/tap_team_view.dart';
 import 'package:get/get.dart';
 
 import 'package:espn/app/modules/espn-plus/bindings/espn_plus_binding.dart';
@@ -51,5 +53,13 @@ class AppPages {
       page: () => EspnPlusView(),
       binding: EspnPlusBinding(),
     ),
+    GetPage(
+      name: _Paths.EDIT_PREFERENCES,
+      page: () => EditPreferencesView(),
+    ), // 设置喜欢关注球队页面
+    GetPage(
+      name: _Paths.TAP_TEAM,
+      page: () => TapTeamView(),
+    ), // 选择喜欢的球队页面
   ];
 }

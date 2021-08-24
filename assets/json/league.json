@@ -1,0 +1,105 @@
+{
+  "teamSearchURL": "http://sportscenter.fan.api.espn.com/apis/v1/search?query=%@&excludeEvents=true&excludeVideos=true&excludeWatch=true&type=team&seeAll=true",
+  "sportAndLeagueSearchURL": "http://sportscenter.fan.api.espn.com/apis/v1/search?query=%@&seeAll=true&type=league",
+  "maxSportsSelectionLimit": "20",
+  "anonServerSyncRetryLimit": "10",
+  "currentTrigger": 0,
+  "favoriteLeagues": [{
+    "uid": "s:20~l:28",
+    "name": "NFL",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=football&league=nfl"
+  }, {
+    "uid": "s:40~l:46",
+    "name": "NBA",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=basketball&league=nba"
+  }, {
+    "uid": "s:1~l:10",
+    "name": "MLB",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=baseball&league=mlb"
+  }, {
+    "uid": "s:40~l:41",
+    "name": "NCAAM",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=basketball&league=mens-college-basketball&groupId=50"
+  }, {
+    "uid": "s:70~l:90",
+    "name": "NHL",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=hockey&league=nhl"
+  }, {
+    "uid": "s:20~l:23",
+    "name": "NCAAF",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=football&league=college-football&groupId=90"
+  }, {
+    "uid": "s:40~l:54",
+    "name": "NCAAW",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=basketball&league=womens-college-basketball&groupId=50"
+  }, {
+    "uid": "s:40~l:59",
+    "name": "WNBA",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=basketball&league=wnba"
+  }, {
+    "uid": "s:600~l:770",
+    "name": "MLS",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=usa.1"
+  }, {
+    "uid": "s:600~l:700",
+    "name": "EPL",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=eng.1"
+  }, {
+    "uid": "s:600~l:775",
+    "name": "Champ. League",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=uefa.champions"
+  }, {
+    "uid": "s:600~l:740",
+    "name": "LaLiga",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=esp.1"
+  }, {
+    "uid": "s:600~l:720",
+    "name": "Bundesliga",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=ger.1"
+  }, {
+    "uid": "s:600~l:710",
+    "name": "Ligue 1",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=fra.1"
+  }, {
+    "uid": "s:600~l:730",
+    "name": "Serie A",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=ita.1"
+  }, {
+    "uid": "s:600~l:760",
+    "name": "Mexican Liga Bancomer",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=soccer&league=mex.1"
+  }, {
+    "uid": "s:200~l:8039",
+    "name": "ICC World Cup",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=cricket&league=8039"
+  }, {
+    "uid": "s:200~l:8048",
+    "name": "IPL",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=cricket&league=8048"
+  }, {
+    "uid": "s:200~l:8052",
+    "name": "County Div I",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=cricket&league=8052"
+  }, {
+    "uid": "s:200~l:8053",
+    "name": "NatWest Twenty20 Blast",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=cricket&league=8053"
+  }, {
+    "uid": "s:200~l:8335",
+    "name": "Royal London One Day Cup",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=cricket&league=8335"
+  }, {
+    "uid": "s:300~l:8323",
+    "name": "Six Nations",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=rugby&league=180659"
+  }, {
+    "uid": "s:300~l:8337",
+    "name": "Rugby World Cup",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=rugby&league=164205"
+  }, {
+    "uid": "s:300~l:8328",
+    "name": "Rugby Championship",
+    "url": "https://sportscenter.api.espn.com/apis/espnapp/v1/teams?sport=rugby&league=244293"
+  }]
+
+}
