@@ -12,6 +12,7 @@ abstract class Routes {
   static const ESPN_PLUS = _Paths.ESPN_PLUS;
   static const EDIT_PREFERENCES = _Paths.EDIT_PREFERENCES;
   static const TAP_TEAM = _Paths.TAP_TEAM;
+  static const SEARCH_TEAM = _Paths.SEARCH_TEAM;
 
 }
 
@@ -25,5 +26,6 @@ abstract class _Paths {
 
   static const EDIT_PREFERENCES = '/edit-preferences';
   static const TAP_TEAM = '/tap-team';
+  static const SEARCH_TEAM = '/search-team';
 
 }

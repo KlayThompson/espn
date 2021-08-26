@@ -1,4 +1,5 @@
 import 'package:espn/app/modules/more/controllers/tap_team_controller.dart';
+import 'package:espn/app/routes/app_pages.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -73,14 +74,17 @@ class TapTeamView extends GetView {
           color: Color(0xff2C2C2C),
           borderRadius: BorderRadius.all(Radius.circular(10))
         ),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.start,
-          children: [
-            Icon(CupertinoIcons.search, color: Color(0xffCDCDCD),),
-            SizedBox(width: 10,),
-            Text('Search for teams', style: TextStyle(color: Color(0xffCDCDCD), fontSize: 16),),
-          ],
-        ),
+        child: InkWell(
+          onTap: () => Get.toNamed(Routes.SEARCH_TEAM),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.start,
+            children: [
+              Icon(CupertinoIcons.search, color: Color(0xffCDCDCD),),
+              SizedBox(width: 10,),
+              Text('Search for teams', style: TextStyle(color: Color(0xffCDCDCD), fontSize: 16),),
+            ],
+          ),
+        )
       ),
     );
   }

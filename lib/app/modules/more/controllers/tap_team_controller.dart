@@ -13,12 +13,16 @@ class TapTeamController extends GetxController {
   bool get loading => _loading;
   var _loadingTeams = false;
   bool get loadingTeams => _loadingTeams;
+  //联盟列表
   late League _leagues = League();
   League get leagues => _leagues;
-  var _selectUid = ''; // 选择左侧的league
+  // 选择左侧的league
+  var _selectUid = '';
   String get selectUid => _selectUid;
+  //球队列表
   late Teams _teams = Teams();
   Teams get teams => _teams;
+
   @override
   void onInit() {
     super.onInit();
@@ -61,4 +65,5 @@ class TapTeamController extends GetxController {
       update();
     });
   }
+
 }
