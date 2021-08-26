@@ -32,10 +32,13 @@ class IndexView extends GetView<IndexController> {
             ),
             child: Scaffold(
               bottomNavigationBar: BottomNavigationBar(
+                backgroundColor: _.darkBottom ? ColorConfig.darkBottomBarColor : ColorConfig.white,
                 type: BottomNavigationBarType.fixed,
                 currentIndex: _.tabIndex,
-                items: items,
-                selectedItemColor: ColorConfig.mainColor,
+                items: getBarItems(_),
+                selectedItemColor: _.darkBottom ? ColorConfig.white : ColorConfig.mainColor,
+                unselectedItemColor: _.darkBottom ? Color(0xff6c6c6c) : Color(0xff757575),
+                unselectedIconTheme: IconThemeData(color: _.darkBottom ? Color(0xff6c6c6c) : Color(0xff757575),),
                 selectedFontSize: 13,
                 unselectedFontSize: 13,
                 onTap: (int index) {
@@ -52,26 +55,29 @@ class IndexView extends GetView<IndexController> {
   }
 }
 
-final List<BottomNavigationBarItem> items = [
-  BottomNavigationBarItem(
+List<BottomNavigationBarItem> getBarItems(IndexController c) {
+  return [
+    BottomNavigationBarItem(
       icon: Icon(Icons.home_filled),
       label: 'Home',
-  ),
-  BottomNavigationBarItem(
-      icon: Image(image: AssetImage(ImagePath.tabBarScores,), width: 28,),
-      activeIcon: Image(image: AssetImage(ImagePath.tabBarScoresActive,), width: 28,),
-      label: 'Scores'),
-  BottomNavigationBarItem(
-      icon: Icon(CupertinoIcons.play_fill),
-      label: 'Watch'),
-  BottomNavigationBarItem(
+    ),
+    BottomNavigationBarItem(
+        icon: Image(image: AssetImage(ImagePath.tabBarScores,), width: 28,),
+        activeIcon: Image(image: AssetImage(ImagePath.tabBarScoresActive,), width: 28,),
+        label: 'Scores'),
+    BottomNavigationBarItem(
+        icon: Icon(CupertinoIcons.play_fill),
+        label: 'Watch'),
+    BottomNavigationBarItem(
       icon: Image(image: AssetImage(ImagePath.tabBarPlus,), width: 28,),
       activeIcon: Image(image: AssetImage(ImagePath.tabBarPlusActive,), width: 28,),
-      label: 'ESPN+'),
-  BottomNavigationBarItem(
-      icon: Icon(Icons.menu_rounded),
-      label: 'More'),
-];
+      label: 'ESPN+',
+    ),
+    BottomNavigationBarItem(
+        icon: Icon(Icons.menu_rounded),
+        label: 'More'),
+  ];
+}
 
 List<Widget> _getPagesList = [
   HomeView(),

@@ -5,12 +5,18 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 abstract class ColorConfig {
   static Color mainColor = Colors.black;
+  static Color darkBottomBarColor = Color(0xff121212);
+
   static Color white = Colors.white;
   static Color black = Colors.black;
   static Color bgColor = Color(0xfff0f0f0);
   static Color diverColor = Color(0xff999999);
   static Color lightAppBar = Color(0xffF9F9F9);
   static Color buttonColor = Color(0xff0064C8);
+
+  static Color textColor = Color(0xff909090);
+  static Color plusYellow = Color(0xffFFAC00);
+
 }
 
 
@@ -21,6 +27,8 @@ abstract class ImagePath {
   static String tabBarPlus = 'assets/images/tabbar-plus.png';
 
   static String homeTitle = 'assets/images/logo-espn-light.png';
+  static String espnPlusTitle = 'assets/images/ESPN_PLUS.png';
+  static String defaultTeamLogo = 'assets/images/default-team-logo.png';
 }
 
 abstract class ServerPath {

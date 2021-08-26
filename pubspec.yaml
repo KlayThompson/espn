@@ -26,5 +26,7 @@ flutter:
     - assets/images/tabbar-scores.png
     - assets/images/tabbar-plus-active.png
     - assets/images/tabbar-plus.png
+    - assets/images/ESPN_PLUS.png
+    - assets/images/default-team-logo.png
 
 
