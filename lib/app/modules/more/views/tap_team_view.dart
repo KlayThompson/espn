@@ -1,4 +1,5 @@
 import 'package:espn/app/modules/more/controllers/tap_team_controller.dart';
+import 'package:espn/app/modules/share/view/activity-loading.dart';
 import 'package:espn/app/routes/app_pages.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
@@ -35,7 +36,7 @@ class TapTeamView extends GetView {
         builder: (_) {
           print('shua xin le ...........');
           if (_.loading) {
-            return _LoadingView();
+            return ActivityLoading();
           } else {
             return Container(
               width: SizeConfig.screenWidth,
@@ -50,14 +51,6 @@ class TapTeamView extends GetView {
             );
           }
         },
-      ),
-    );
-  }
-
-  Widget _LoadingView() {
-    return Center(
-      child: CupertinoActivityIndicator(
-        radius: 15,
       ),
     );
   }
@@ -168,7 +161,7 @@ class TapTeamView extends GetView {
       width: ScreenUtil().setWidth(375 - 110),
       padding: EdgeInsets.fromLTRB(25, 0, 25, 0),
       // color: Colors.orange,
-      child: tm.loadingTeams ? _LoadingView() : GridView.count(
+      child: tm.loadingTeams ? ActivityLoading() : GridView.count(
         //水平子Widget之间间距
         crossAxisSpacing: 20.0,
         //垂直子Widget之间间距

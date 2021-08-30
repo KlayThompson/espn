@@ -1,4 +1,5 @@
 import 'package:espn/app/modules/more/views/more_section_card_view.dart';
+import 'package:espn/app/modules/share/view/activity-loading.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -28,7 +29,7 @@ class MoreView extends GetView<MoreController> {
       body: GetBuilder<MoreController>(
         builder: (_) {
           if (_.loading) {
-            return _LoadingView();
+            return ActivityLoading();
           } else {
             return Container(
               color: ColorConfig.bgColor,
@@ -52,14 +53,6 @@ class MoreView extends GetView<MoreController> {
       list.add(MoreSectionCardView(sectionItem: element));
     });
     return list;
-  }
-
-  Widget _LoadingView() {
-    return Center(
-      child: CupertinoActivityIndicator(
-        radius: 15,
-      ),
-    );
   }
 }
 

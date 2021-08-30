@@ -5,8 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../controllers/espn_plus_controller.dart';
+import 'articles_view.dart';
 
 class EspnPlusView extends GetView<EspnPlusController> {
+  final EspnPlusController pc = Get.put(EspnPlusController());
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(length: 2, child: Scaffold(
@@ -24,7 +26,7 @@ class EspnPlusView extends GetView<EspnPlusController> {
                     ),
                   )
               ),
-              Text('猜你喜欢'),
+              ArticlesView()
             ]
         ),
       ),

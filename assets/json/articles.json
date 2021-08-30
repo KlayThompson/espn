@@ -1,0 +1,1368 @@
+{
+  "articlesList": [
+    {
+    "id": "32094543",
+    "publishedDate": "2021-08-29T16:28:33Z",
+    "lastModified": "2021-08-27T02:21:39Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32089410,
+      "publishedDate": "2021-08-27T12:03:04Z",
+      "lastModified": "2021-08-27T02:21:39Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "hero",
+      "nowId": "1-32089410",
+      "article": {
+        "headline": "Ranking the NBA's best superstar trios",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0121/r804595_608x342_16-9.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0121/r804595_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0121/r804595_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0121/r804595_608x342_16-9.jpg",
+          "photoCredit": "Jason Miller/Getty Images"
+        },
+        "description": "Does Brooklyn's trio of KD, Kyrie and The Beard stand alone? What about the title-winning trio in Milwaukee? Or the new Showtime in L.A.?",
+        "byline": "",
+        "linkText": "Ranking the NBA's best superstar trios",
+        "share": {
+          "headline": "Ranking the NBA's best superstar trios",
+          "description": "Does Brooklyn's trio of KD, Kyrie and The Beard stand alone? What about the title-winning trio in Milwaukee? Or the new Showtime in L.A.?",
+          "link": {
+            "action": {
+              "url": "https://www.espn.com/nba/insider/story/_/id/32089410/trio-tiers-how-nba-best-big-threes-stack-entering-2021-22-season",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nba/insider/story/_/id/32089410/trio-tiers-how-nba-best-big-threes-stack-entering-2021-22-season"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nba/insider/story/_/id/32089410/trio-tiers-how-nba-best-big-threes-stack-entering-2021-22-season?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NBA"
+      },
+      "formattedTimestamp": "3d %@ Kirk Goldsberry",
+      "tracking": {
+        "teamName": "No Team",
+        "leagueName": "NBA",
+        "sportName": "Basketball",
+        "byline": "Kirk Goldsberry",
+        "leagueId": "s:40~l:46",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32089410",
+        "contentType": "now",
+        "categories": "NBA, daily",
+        "presentationType": "now, article, hero"
+      },
+      "parentId": "32094543",
+      "parentType": "now",
+      "parentDate": "2021-08-29T16:28:33Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba.png&w=100&h=100&transparent=true",
+      "label": "THE BIG THREES",
+      "isPremium": false
+    }
+  }, {
+    "id": "32105369",
+    "publishedDate": "2021-08-29T01:25:39Z",
+    "lastModified": "2021-08-29T20:08:08Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32089527,
+      "publishedDate": "2021-08-29T20:08:10Z",
+      "lastModified": "2021-08-29T20:08:08Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32089527",
+      "article": {
+        "headline": "Matt Bowen's 10 favorite targets in 2021 fantasy drafts",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0826/r900771_576x324_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0826/r900771_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0826/r900771_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0826/r900771_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0826/r900771_576x324_16-9.jpg",
+          "photoCredit": "AP Photo/Ashley Landis"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Matt Bowen's 10 favorite targets in 2021 fantasy drafts",
+        "share": {
+          "headline": "Matt Bowen's 10 favorite targets in 2021 fantasy drafts",
+          "description": "After taking part in many mock drafts, Matt reveals which players he finds himself targeting at different stages of the draft.",
+          "link": {
+            "action": {
+              "url": "https://insider.espn.com/fantasy/football/insider/story/_/id/32089527/fantasy-football-matt-bowen-10-favorite-targets-2021-drafts",
+              "type": "externalLink",
+              "fullURL": "https://insider.espn.com/fantasy/football/insider/story/_/id/32089527/fantasy-football-matt-bowen-10-favorite-targets-2021-drafts"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://insider.espn.com/fantasy/football/insider/story/_/id/32089527/fantasy-football-matt-bowen-10-favorite-targets-2021-drafts?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "Fantasy"
+      },
+      "formattedTimestamp": "11h %@ Matt Bowen",
+      "tracking": {
+        "teamName": "No Team",
+        "leagueName": "Fantasy NFL",
+        "sportName": "Football",
+        "byline": "Matt Bowen",
+        "leagueId": "s:20~l:3080",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32089527",
+        "contentType": "now",
+        "categories": "news - fantasy, news - fantasy football, Fantasy, Fantasy NFL",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32105369",
+      "parentType": "now",
+      "parentDate": "2021-08-29T01:25:39Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fffl.png&w=288&h=288&transparent=true",
+      "label": "FANTASY FOOTBALL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32094539",
+    "publishedDate": "2021-08-27T12:20:31Z",
+    "lastModified": "2021-08-29T23:55:52Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32076848,
+      "publishedDate": "2021-08-29T23:55:55Z",
+      "lastModified": "2021-08-29T23:55:52Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32076848",
+      "article": {
+        "headline": "Adam Schefter's cheat sheet: Value picks and sleepers to target",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2019/0827/r417726_2_576x324_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2019/0827/r417726_2_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2019/0827/r417726_2_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2019/0827/r417726_2_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2019/0827/r417726_2_576x324_16-9.jpg",
+          "photoCredit": "Allen Kee / ESPN Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Adam Schefter's cheat sheet: Value picks and sleepers to target",
+        "share": {
+          "headline": "Adam Schefter's cheat sheet: Value picks and sleepers to target",
+          "description": "The cheat sheet Adam sends to his friends and family when they ask him for fantasy advice is once again being shared with you.",
+          "link": {
+            "action": {
+              "url": "https://insider.espn.com/fantasy/football/insider/story/_/id/32076848/adam-schefter-fantasy-football-cheat-sheet-value-picks-sleepers-target",
+              "type": "externalLink",
+              "fullURL": "https://insider.espn.com/fantasy/football/insider/story/_/id/32076848/adam-schefter-fantasy-football-cheat-sheet-value-picks-sleepers-target"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://insider.espn.com/fantasy/football/insider/story/_/id/32076848/adam-schefter-fantasy-football-cheat-sheet-value-picks-sleepers-target?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "Fantasy"
+      },
+      "formattedTimestamp": "7h %@ Adam Schefter",
+      "tracking": {
+        "teamName": "No Team",
+        "leagueName": "Fantasy NFL",
+        "sportName": "Football",
+        "byline": "Adam Schefter",
+        "leagueId": "s:20~l:3080",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32076848",
+        "contentType": "now",
+        "categories": "Fantasy, Fantasy NFL, news - fantasy",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32094539",
+      "parentType": "now",
+      "parentDate": "2021-08-27T12:20:31Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fffl.png&w=288&h=288&transparent=true",
+      "label": "FANTASY FOOTBALL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32094335",
+    "publishedDate": "2021-08-29T03:14:12Z",
+    "lastModified": "2021-08-27T11:41:31Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32091900,
+      "publishedDate": "2021-08-27T11:41:38Z",
+      "lastModified": "2021-08-27T11:41:31Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32091900",
+      "article": {
+        "headline": "Ranking the best HBCU football teams of all time",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0827/r901006_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0827/r901006_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0827/r901006_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0827/r901006_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0827/r901006_608x342_16-9.jpg",
+          "photoCredit": "Stephen Dunn/Getty Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Ranking the best HBCU football teams of all time",
+        "share": {
+          "headline": "Ranking the best HBCU football teams of all time",
+          "description": "As the college football season kicks off Saturday with Alcorn State vs. North Carolina Central in the MEAC/SWAC Challenge in Atlanta, Bill Connelly ranks the best HBCU teams in history.",
+          "link": {
+            "action": {
+              "url": "https://www.espn.com/college-football/insider/story/_/id/32091900/ranking-best-hbcu-football-teams-all",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/college-football/insider/story/_/id/32091900/ranking-best-hbcu-football-teams-all"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/college-football/insider/story/_/id/32091900/ranking-best-hbcu-football-teams-all?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "College Football"
+      },
+      "formattedTimestamp": "3d %@ Bill Connelly",
+      "tracking": {
+        "teamName": "Grambling Tigers",
+        "leagueName": "NCAA Football",
+        "sportName": "Football",
+        "byline": "Bill Connelly",
+        "leagueId": "s:20~l:23",
+        "teamId": "s:20~l:23~t:2755",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32091900",
+        "contentType": "now",
+        "categories": "College Football, Grambling Tigers, Tennessee State Tigers, Florida A&M Rattlers, Morgan State Bears, Southern Jaguars, Prairie View A&M Panthers, Howard Bison, North Carolina A&T Aggies, Alabama State Hornets, Kentucky State Thorobreds, South Carolina State Bulldogs, Hampton Pirates, Central State (OH) Marauders, Alcorn State Braves, Tuskegee Golden Tigers, Mississippi Valley State Delta Devils, Jackson State Tigers",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32094335",
+      "parentType": "now",
+      "parentDate": "2021-08-29T03:14:12Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN-icon-football-college.png&h=40&w=40&cquality=40",
+      "label": "THE GREATEST HBCU TEAMS",
+      "isPremium": false
+    }
+  }, {
+    "id": "32088282",
+    "publishedDate": "2021-08-26T18:01:40Z",
+    "lastModified": "2021-08-26T12:05:59Z",
+    "type": "Story Collection",
+    "articleItems": [{
+      "id": 32083248,
+      "publishedDate": "2021-08-26T11:28:20Z",
+      "lastModified": "2021-08-26T11:28:17Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32083248",
+      "article": {
+        "headline": "10 predictions for the 2021 NFL season: Worry for Burrow, Rodgers' team-building, more",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0825/r900376_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0825/r900376_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0825/r900376_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0825/r900376_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0825/r900376_608x342_16-9.jpg",
+          "photoCredit": "Ian Johnson/Icon Sportswire"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "10 predictions for the 2021 NFL season: Worry for Burrow, Rodgers' team-building, more",
+        "share": {
+          "headline": "10 predictions for the 2021 NFL season: Worry for Burrow, Rodgers' team-building, more",
+          "description": "Aaron Rodgers calling the shots? Joe Burrow under pressure? Urban Meyer's uphill battle? Forfeited NFL games? Kevin Seifert predicts how the 2021 season will play out.",
+          "link": {
+            "action": {
+              "url": "https://www.espn.com/nfl/insider/story/_/id/32083248/10-big-predictions-2021-nfl-season-expect-gm-aaron-rodgers-joe-burrow-o-line-urban-meyer-jacksonville-more",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32083248/10-big-predictions-2021-nfl-season-expect-gm-aaron-rodgers-joe-burrow-o-line-urban-meyer-jacksonville-more"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32083248/10-big-predictions-2021-nfl-season-expect-gm-aaron-rodgers-joe-burrow-o-line-urban-meyer-jacksonville-more?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "4d %@ Kevin Seifert",
+      "tracking": {
+        "teamName": "Cincinnati Bengals",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Kevin Seifert",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:4",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32083248",
+        "contentType": "now",
+        "categories": "NFL, daily, list, Aaron Rodgers, Joe Burrow, Jameis Winston, Taysom Hill, Cincinnati Bengals, Green Bay Packers, Jacksonville Jaguars, Las Vegas Raiders, Los Angeles Chargers, Los Angeles Rams, New Orleans Saints, San Francisco 49ers, Tampa Bay Buccaneers",
+        "presentationType": "Story Collection, article, enhanced",
+        "index": 1
+      },
+      "parentId": "32088282",
+      "parentType": "Story Collection",
+      "parentDate": "2021-08-26T18:01:40Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnfl.png&w=288&h=288&transparent=true",
+      "label": "2021 CRYSTAL BALL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32089440",
+    "publishedDate": "2021-08-28T23:55:10Z",
+    "lastModified": "2021-08-28T23:55:07Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32089440,
+      "publishedDate": "2021-08-28T23:55:10Z",
+      "lastModified": "2021-08-28T23:55:07Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32089440",
+      "article": {
+        "headline": "NFL underrated, overrated players: Which players do the numbers -- and tape -- like more than perception?",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2020/0516/r699341_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2020/0516/r699341_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2020/0516/r699341_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2020/0516/r699341_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2020/0516/r699341_608x342_16-9.jpg",
+          "photoCredit": "Greg M. Cooper/USA Today Sports"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Picking 12 underrated, overrated NFL players by the numbers -- and what the tape shows",
+        "share": {
+          "headline": "NFL underrated, overrated players: Which players do the numbers -- and tape -- like more than perception?",
+          "description": "We picked out NFL players who the numbers say are better or worse than their reputations suggest and looked to the game tape to see if it supported the metrics.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/2XU1YJR",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32089440/nfl-underrated-overrated-players-numbers-tape-more-perception"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32089440/nfl-underrated-overrated-players-numbers-tape-more-perception?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "2d %@ Seth Walder, Matt Bowen",
+      "tracking": {
+        "teamName": "Arizona Cardinals",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Seth Walder and Matt Bowen",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:22",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32089440",
+        "contentType": "now",
+        "categories": "NFL, Fantasy NFL, news - analytics, Darious Williams, Kelvin Beachum, J.K. Dobbins, Derek Carr, Jakobi Meyers, Brandon Linder, Frank Clark, Ryan Ramczyk, Darius Slay, Rodger Saffold III, Tim Settle, C.J. Gardner-Johnson, Arizona Cardinals, Baltimore Ravens, Jacksonville Jaguars, Kansas City Chiefs, Las Vegas Raiders, New England Patriots, New Orleans Saints, Philadelphia Eagles, Tennessee Titans, Washington, Los Angeles Rams",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32089440",
+      "parentType": "now",
+      "parentDate": "2021-08-28T23:55:10Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32071629",
+    "publishedDate": "2021-08-27T10:53:57Z",
+    "lastModified": "2021-08-27T10:53:52Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32071629,
+      "publishedDate": "2021-08-27T10:53:57Z",
+      "lastModified": "2021-08-27T10:53:52Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32071629",
+      "article": {
+        "headline": "NFL first-round pick progress reports: How all 32 rookies performed in training camp, plus outlook for 2021",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0826/r900944_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0826/r900944_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0826/r900944_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0826/r900944_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0826/r900944_608x342_16-9.jpg",
+          "photoCredit": "Photo by Larry Radloff/Icon Sportswire"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Progress reports for all 32 first-round picks: How Wilson, Parsons, Harris and other rookies have looked so far",
+        "share": {
+          "headline": "NFL first-round pick progress reports: How all 32 rookies performed in training camp, plus outlook for 2021",
+          "description": "Zach Wilson is on track to start for the Jets, but several other of April's top picks have a ways to go.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3sQbvgp",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32071629/nfl-first-round-pick-progress-reports-how-all-32-rookies-performed-training-camp-plus-outlook-2021"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32071629/nfl-first-round-pick-progress-reports-how-all-32-rookies-performed-training-camp-plus-outlook-2021?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "3d %@ NFL Nation",
+      "tracking": {
+        "teamName": "Philadelphia Eagles",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "NFL Nation",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:21",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32071629",
+        "contentType": "now",
+        "categories": "NFL, daily, list, Philadelphia Eagles, Miami Dolphins, New England Patriots, Pittsburgh Steelers, San Francisco 49ers, Denver Broncos, Chicago Bears, Dallas Cowboys, Green Bay Packers, Jacksonville Jaguars, New York Jets",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32071629",
+      "parentType": "now",
+      "parentDate": "2021-08-27T10:53:57Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32096610",
+    "publishedDate": "2021-08-27T22:44:43Z",
+    "lastModified": "2021-08-27T22:44:40Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32096610,
+      "publishedDate": "2021-08-27T22:44:43Z",
+      "lastModified": "2021-08-27T22:44:40Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32096610",
+      "article": {
+        "headline": "NBA trade grades: Are the Cleveland Cavaliers any closer to the playoffs after acquiring Lauri Markkanen?",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2019/0107/r485779_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2019/0107/r485779_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2019/0107/r485779_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2019/0107/r485779_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2019/0107/r485779_608x342_16-9.jpg",
+          "photoCredit": "Photo by Zach Beeker/NBAE via Getty Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "NBA trade grades: Who won the Lauri Markkanen deal?",
+        "share": {
+          "headline": "NBA trade grades: Are the Cleveland Cavaliers any closer to the playoffs after acquiring Lauri Markkanen?",
+          "description": "The biggest remaining free agent is off the market and headed to Cleveland. But will Markkanen be a good fit alongside Jarrett Allen and Evan Mobley?",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3kyt7cW",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nba/insider/story/_/id/32096610/nba-trade-grades-won-3-team-lauri-markkanen-deal"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nba/insider/story/_/id/32096610/nba-trade-grades-won-3-team-lauri-markkanen-deal?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NBA"
+      },
+      "formattedTimestamp": "3d %@ Kevin Pelton",
+      "tracking": {
+        "teamName": "Chicago Bulls",
+        "leagueName": "NBA",
+        "sportName": "Basketball",
+        "byline": "Kevin Pelton",
+        "leagueId": "s:40~l:46",
+        "teamId": "s:40~l:46~t:4",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32096610",
+        "contentType": "now",
+        "categories": "NBA, Chicago Bulls, Portland Trail Blazers, Lauri Markkanen, Larry Nance Jr., Cleveland Cavaliers, daily",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32096610",
+      "parentType": "now",
+      "parentDate": "2021-08-27T22:44:43Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "label": "NBA",
+      "isPremium": false
+    }
+  }, {
+    "id": "32090098",
+    "publishedDate": "2021-08-27T14:28:56Z",
+    "lastModified": "2021-08-27T14:28:54Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32090098,
+      "publishedDate": "2021-08-27T14:28:56Z",
+      "lastModified": "2021-08-27T14:28:54Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32090098",
+      "article": {
+        "headline": "Did the Baltimore Orioles just play the worst stretch of baseball in modern MLB history?",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0826/r900801_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0826/r900801_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0826/r900801_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0826/r900801_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0826/r900801_608x342_16-9.jpg",
+          "photoCredit": "Douglas P. DeFelice/Getty Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Did the Orioles just play the worst stretch of baseball in modern MLB history?",
+        "share": {
+          "headline": "Did the Baltimore Orioles just play the worst stretch of baseball in modern MLB history?",
+          "description": "Here's how Baltimore's recent 19-game losing streak compares to baseball's all-time deepest slumps -- and how long it took those teams to get better.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/2UVGo6O",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/mlb/insider/story/_/id/32090098/did-baltimore-orioles-just-play-worst-stretch-baseball-modern-mlb-history"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/mlb/insider/story/_/id/32090098/did-baltimore-orioles-just-play-worst-stretch-baseball-modern-mlb-history?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "MLB"
+      },
+      "formattedTimestamp": "3d %@ Bradford Doolittle",
+      "tracking": {
+        "teamName": "Baltimore Orioles",
+        "leagueName": "MLB",
+        "sportName": "Baseball",
+        "byline": "Bradford Doolittle",
+        "leagueId": "s:1~l:10",
+        "teamId": "s:1~l:10~t:1",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32090098",
+        "contentType": "now",
+        "categories": "MLB, list, daily, Baltimore Orioles",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32090098",
+      "parentType": "now",
+      "parentDate": "2021-08-27T14:28:56Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "label": "MLB",
+      "isPremium": false
+    }
+  }, {
+    "id": "32082564",
+    "publishedDate": "2021-08-26T14:03:57Z",
+    "lastModified": "2021-08-26T14:03:55Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32082564,
+      "publishedDate": "2021-08-26T14:03:57Z",
+      "lastModified": "2021-08-26T14:03:55Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32082564",
+      "article": {
+        "headline": "Why Derwin James Jr. is NFL's most unique defensive player: 'Mr. Versatility' set to do it all for Los Angeles Chargers' defense",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0825/r900293_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0825/r900293_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0825/r900293_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0825/r900293_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0825/r900293_608x342_16-9.jpg",
+          "photoCredit": "Jevone Moore/Icon Sportswire"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "What makes Derwin James the NFL's 'Mr. Versatility'? Behind the do-it-all defensive back's return to the field",
+        "share": {
+          "headline": "Why Derwin James Jr. is NFL's most unique defensive player: 'Mr. Versatility' set to do it all for Los Angeles Chargers' defense",
+          "description": "The Chargers' multidimensional safety is back from injury and looking to make a huge impact on defense for Los Angeles. And he'll be doing it in a variety of roles.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/2Wpqty8",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32082564/why-derwin-james-jr-nfl-most-unique-defensive-player-mr-versatility-set-do-all-los-angeles-chargers-defense"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32082564/why-derwin-james-jr-nfl-most-unique-defensive-player-mr-versatility-set-do-all-los-angeles-chargers-defense?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "4d %@ Jeremy Fowler",
+      "tracking": {
+        "teamName": "Los Angeles Chargers",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Jeremy Fowler",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:24",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32082564",
+        "contentType": "now",
+        "categories": "NFL, daily, Los Angeles Chargers, Derwin James Jr.",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32082564",
+      "parentType": "now",
+      "parentDate": "2021-08-26T14:03:57Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32073292",
+    "publishedDate": "2021-08-25T11:51:13Z",
+    "lastModified": "2021-08-25T11:51:07Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32073292,
+      "publishedDate": "2021-08-25T11:51:13Z",
+      "lastModified": "2021-08-25T11:51:07Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32073292",
+      "article": {
+        "headline": "How the 2021 college football season could turn into chaos",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0824/r899837_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0824/r899837_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0824/r899837_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0824/r899837_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0824/r899837_608x342_16-9.jpg",
+          "photoCredit": "Sam Greenwood/Getty Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "How chaos could reign over the 2021 college football season",
+        "share": {
+          "headline": "How the 2021 college football season could turn into chaos",
+          "description": "With Alabama, Clemson and Ohio State replacing star QBs, could things get unpredictable among college football's elite? We can only hope.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3sLr7Si",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/college-football/insider/story/_/id/32073292/how-2021-college-football-season-turn-chaos"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/college-football/insider/story/_/id/32073292/how-2021-college-football-season-turn-chaos?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "Insider College Football"
+      },
+      "formattedTimestamp": "5d %@ Bill Connelly",
+      "tracking": {
+        "teamName": "Alabama Crimson Tide",
+        "leagueName": "NCAA Football",
+        "sportName": "Football",
+        "byline": "Bill Connelly",
+        "leagueId": "s:20~l:23",
+        "teamId": "s:20~l:23~t:333",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32073292",
+        "contentType": "now",
+        "categories": "Insider College Football, Alabama Crimson Tide, Cincinnati Bearcats, Clemson Tigers, Georgia Bulldogs, Iowa State Cyclones, Miami Hurricanes, North Carolina Tar Heels, Ohio State Buckeyes, Oklahoma Sooners, Texas A&M Aggies",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32073292",
+      "parentType": "now",
+      "parentDate": "2021-08-25T11:51:13Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+      "label": "NCAA Football",
+      "isPremium": false
+    }
+  }, {
+    "id": "32071353",
+    "publishedDate": "2021-08-24T16:28:32Z",
+    "lastModified": "2021-08-24T16:28:30Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32071353,
+      "publishedDate": "2021-08-24T16:28:32Z",
+      "lastModified": "2021-08-24T16:28:30Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32071353",
+      "article": {
+        "headline": "Is Dodgers-Padres still MLB's best rivalry? Breaking down both teams as they battle for the playoffs",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0823/r899493_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0823/r899493_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0823/r899493_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0823/r899493_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0823/r899493_608x342_16-9.jpg",
+          "photoCredit": "AP Photo/Denis Poroy"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Is Dodgers-Padres still MLB's best rivalry? Breaking down both teams as they battle for the playoffs",
+        "share": {
+          "headline": "Is Dodgers-Padres still MLB's best rivalry? Breaking down both teams as they battle for the playoffs",
+          "description": "Will L.A. win the West? Will San Diego even make it to the playoffs? As the Dodgers and Padres resume their heated season series after a two-month hiatus, we take a look at what's next.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3gM5YTB",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/mlb/insider/story/_/id/32071353/is-dodgers-padres-mlb-best-rivalry-breaking-teams-battle-playoffs"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/mlb/insider/story/_/id/32071353/is-dodgers-padres-mlb-best-rivalry-breaking-teams-battle-playoffs?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "MLB"
+      },
+      "formattedTimestamp": "6d %@ Alden Gonzalez, David Schoenfield",
+      "tracking": {
+        "teamName": "Los Angeles Dodgers",
+        "leagueName": "MLB",
+        "sportName": "Baseball",
+        "byline": "Alden Gonzalez and David Schoenfield",
+        "leagueId": "s:1~l:10",
+        "teamId": "s:1~l:10~t:19",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32071353",
+        "contentType": "now",
+        "categories": "MLB, Los Angeles Dodgers, San Diego Padres, daily",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32071353",
+      "parentType": "now",
+      "parentDate": "2021-08-24T16:28:32Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "label": "MLB",
+      "isPremium": false
+    }
+  }, {
+    "id": "32067379",
+    "publishedDate": "2021-08-24T10:33:12Z",
+    "lastModified": "2021-08-24T10:33:08Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32067379,
+      "publishedDate": "2021-08-24T10:33:12Z",
+      "lastModified": "2021-08-24T10:33:08Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32067379",
+      "article": {
+        "headline": "Stanford Steve and The Bear: College football picks and best bets for 2021",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0823/r899367_576x324_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0823/r899367_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0823/r899367_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0823/r899367_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0823/r899367_576x324_16-9.jpg",
+          "photoCredit": "Aaron Doster-USA TODAY Sports"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Stanford Steve and The Bear: College football picks and best bets for 2021",
+        "share": {
+          "headline": "Stanford Steve and The Bear: College football picks and best bets for 2021",
+          "description": "What's in store this season? The fellas preview the 2021 college football season with their best bets, from player props to over/under bets and conference winners.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3B7up5A",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/chalk/insider/story/_/id/32067379/stanford-steve-bear-college-football-picks-best-bets-2021"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/chalk/insider/story/_/id/32067379/stanford-steve-bear-college-football-picks-best-bets-2021?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "Insider College Football"
+      },
+      "formattedTimestamp": "6d %@ Chris Fallica, Steve Coughlin",
+      "tracking": {
+        "teamName": "No Team",
+        "leagueName": "NCAA Football",
+        "sportName": "Football",
+        "byline": "Chris Fallica and Steve Coughlin",
+        "leagueId": "s:20~l:23",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32067379",
+        "contentType": "now",
+        "categories": "news - chalk, Insider College Football",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32067379",
+      "parentType": "now",
+      "parentDate": "2021-08-24T10:33:12Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+      "label": "NCAA Football",
+      "isPremium": false
+    }
+  }, {
+    "id": "32068462",
+    "publishedDate": "2021-08-23T13:51:53Z",
+    "lastModified": "2021-08-23T13:51:51Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32068462,
+      "publishedDate": "2021-08-23T13:51:53Z",
+      "lastModified": "2021-08-23T13:51:51Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32068462",
+      "article": {
+        "headline": "A miracle team? How the San Francisco Giants just keep winning",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0823/r899405_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0823/r899405_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0823/r899405_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0823/r899405_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0823/r899405_608x342_16-9.jpg",
+          "photoCredit": "Bob Kupbens/Icon Sportswire via Getty Images"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "A miracle team? How the Giants just keep winning",
+        "share": {
+          "headline": "A miracle team? How the San Francisco Giants just keep winning",
+          "description": "The Giants have dominated long enough to make it clear this is no fluke. What is their secret? And will their formula continue in the postseason?",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3z9SfNp",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/mlb/insider/story/_/id/32068462/a-miracle-team-how-san-francisco-giants-just-keep-winning"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/mlb/insider/story/_/id/32068462/a-miracle-team-how-san-francisco-giants-just-keep-winning?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "MLB"
+      },
+      "formattedTimestamp": "7d %@ David Schoenfield",
+      "tracking": {
+        "teamName": "San Francisco Giants",
+        "leagueName": "MLB",
+        "sportName": "Baseball",
+        "byline": "David Schoenfield",
+        "leagueId": "s:1~l:10",
+        "teamId": "s:1~l:10~t:26",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32068462",
+        "contentType": "now",
+        "categories": "MLB, San Francisco Giants, daily, Buster Posey",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32068462",
+      "parentType": "now",
+      "parentDate": "2021-08-23T13:51:53Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "label": "MLB",
+      "isPremium": false
+    }
+  }, {
+    "id": "32046468",
+    "publishedDate": "2021-08-22T11:02:31Z",
+    "lastModified": "2021-08-22T11:01:21Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32046468,
+      "publishedDate": "2021-08-22T11:02:31Z",
+      "lastModified": "2021-08-22T11:01:21Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32046468",
+      "article": {
+        "headline": "Ranking NFL divisions from best to worst: NFC West on top? AFC South or NFC East at the bottom?",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0820/r898253_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0820/r898253_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0820/r898253_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0820/r898253_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0820/r898253_608x342_16-9.jpg",
+          "photoCredit": "Bob Kupbens/Icon Sportswire"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Ranking the eight NFL divisions from best to worst: Could the NFC West have four playoff teams?",
+        "share": {
+          "headline": "Ranking NFL divisions from best to worst: NFC West on top? AFC South or NFC East at the bottom?",
+          "description": "The NFC West has a legit shot at having four playoff teams, while other divisions are lucky that they get an automatic spot.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3mm7UFD",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32046468/ranking-nfl-divisions-best-worst-nfc-west-top-afc-south-nfc-east-bottom"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32046468/ranking-nfl-divisions-best-worst-nfc-west-top-afc-south-nfc-east-bottom?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "8d %@ Dan Graziano",
+      "tracking": {
+        "teamName": "San Francisco 49ers",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Dan Graziano",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:25",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32046468",
+        "contentType": "now",
+        "categories": "NFL, San Francisco 49ers, Los Angeles Rams, Cleveland Browns, Baltimore Ravens, Pittsburgh Steelers, Dallas Cowboys, Washington, Kansas City Chiefs, Las Vegas Raiders, Jacksonville Jaguars, Tennessee Titans",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32046468",
+      "parentType": "now",
+      "parentDate": "2021-08-22T11:02:31Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32008492",
+    "publishedDate": "2021-08-22T21:21:14Z",
+    "lastModified": "2021-08-22T21:21:09Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32008492,
+      "publishedDate": "2021-08-22T21:21:14Z",
+      "lastModified": "2021-08-22T21:21:09Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32008492",
+      "article": {
+        "headline": "More than just home runs: Where does Miguel Cabrera rank among MLB's 500-HR club?",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2014/0813/mlb_u_cabrera_kh_608x342.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2014/0813/mlb_u_cabrera_kh_1296x1296.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2014/0813/mlb_u_cabrera_kh_1296x864.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2014/0813/mlb_u_cabrera_kh_1296x518.jpg",
+          "standard": "https://secure.espncdn.com/photo/2014/0813/mlb_u_cabrera_kh_608x342.jpg",
+          "photoCredit": "Rick Osentoski/USA TODAY Sports"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "More than just home runs: Where does Miguel Cabrera rank among MLB's 500-HR club?",
+        "share": {
+          "headline": "More than just home runs: Where does Miguel Cabrera rank among MLB's 500-HR club?",
+          "description": "The 500-homer club is one of baseball's most elite groups, and Miguel Cabrera has just joined it. How does he stack up?",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3y8GTaY",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/mlb/insider/story/_/id/32008492/more-just-home-runs-where-does-miguel-cabrera-rank-mlb-500-hr-club"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/mlb/insider/story/_/id/32008492/more-just-home-runs-where-does-miguel-cabrera-rank-mlb-500-hr-club?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "MLB"
+      },
+      "formattedTimestamp": "7d %@ David Schoenfield",
+      "tracking": {
+        "teamName": "Boston Red Sox",
+        "leagueName": "MLB",
+        "sportName": "Baseball",
+        "byline": "David Schoenfield",
+        "leagueId": "s:1~l:10",
+        "teamId": "s:1~l:10~t:2",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32008492",
+        "contentType": "now",
+        "categories": "MLB, daily, Boston Red Sox, New York Yankees, Los Angeles Dodgers, Atlanta Braves, Chicago Cubs, Chicago White Sox, Oakland Athletics, San Francisco Giants, Seattle Mariners, Toronto Blue Jays, Cincinnati Reds, Cleveland Indians, Philadelphia Phillies, Pittsburgh Pirates, St. Louis Cardinals, Baltimore Orioles, Detroit Tigers, Miguel Cabrera, San Francisco Giants, Atlanta Braves, Seattle Mariners, MLB, St. Louis Cardinals, Cleveland Indians, daily, Boston Red Sox",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32008492",
+      "parentType": "now",
+      "parentDate": "2021-08-22T21:21:14Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "label": "MLB",
+      "isPremium": false
+    }
+  }, {
+    "id": "32051139",
+    "publishedDate": "2021-08-21T16:53:17Z",
+    "lastModified": "2021-08-21T16:53:14Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32051139,
+      "publishedDate": "2021-08-21T16:53:17Z",
+      "lastModified": "2021-08-21T16:53:14Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32051139",
+      "article": {
+        "headline": "NFL sack projections for 2021: Ranking top 50 pass-rushers, plus where T.J. Watt, Myles Garrett, Aaron Donald land",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0820/r898261_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0820/r898261_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0820/r898261_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0820/r898261_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0820/r898261_608x342_16-9.jpg",
+          "photoCredit": "Photo by Caitlyn Epes-Pittsburgh Steelers/handout photo-USA TODAY Sports"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Who will lead the NFL in sacks this season? Projecting the top 50 pass-rushers",
+        "share": {
+          "headline": "NFL sack projections for 2021: Ranking top 50 pass-rushers, plus where T.J. Watt, Myles Garrett, Aaron Donald land",
+          "description": "We created a model to predict which defenders could improve -- and decline -- at taking down quarterbacks this season.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3z8m0ho",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32051139/nfl-sack-projections-2021-ranking-top-50-pass-rushers-plus-where-tj-watt-myles-garrett-aaron-donald-land"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32051139/nfl-sack-projections-2021-ranking-top-50-pass-rushers-plus-where-tj-watt-myles-garrett-aaron-donald-land?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "9d %@ Seth Walder",
+      "tracking": {
+        "teamName": "Pittsburgh Steelers",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Seth Walder",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:23",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32051139",
+        "contentType": "now",
+        "categories": "NFL, news - analytics, Pittsburgh Steelers, Cleveland Browns, Chicago Bears, Tampa Bay Buccaneers, Los Angeles Rams, Green Bay Packers, Tennessee Titans, Minnesota Vikings, T.J. Watt, Danielle Hunter, Khalil Mack, Myles Garrett, Shaquil Barrett, Jason Pierre-Paul, Aaron Donald, Za'Darius Smith, Bud Dupree",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32051139",
+      "parentType": "now",
+      "parentDate": "2021-08-21T16:53:17Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "32015903",
+    "publishedDate": "2021-08-20T17:59:13Z",
+    "lastModified": "2021-08-20T17:59:09Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 32015903,
+      "publishedDate": "2021-08-20T17:59:13Z",
+      "lastModified": "2021-08-20T17:59:09Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-32015903",
+      "article": {
+        "headline": "Ranking every NFL team's position group from 1-32 for the 2021 season: Top QB, WR, CB units and more",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0817/r897143_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0817/r897143_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0817/r897143_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0817/r897143_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0817/r897143_608x342_16-9.jpg",
+          "photoCredit": "Cliff Welch/Icon Sportswire"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Ranking every NFL position group from 1-32",
+        "share": {
+          "headline": "Ranking every NFL team's position group from 1-32 for the 2021 season: Top QB, WR, CB units and more",
+          "description": "Which teams have the best -- and worst -- running back units? The top cornerback room? We rank all 32 teams in 10 different position groups, plus we offer an overall roster outlook.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3mkzq6y",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nfl/insider/story/_/id/32015903/ranking-every-nfl-team-position-group-1-32-2021-season-top-qb-wr-cb-units-more"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nfl/insider/story/_/id/32015903/ranking-every-nfl-team-position-group-1-32-2021-season-top-qb-wr-cb-units-more?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NFL"
+      },
+      "formattedTimestamp": "10d %@ Mike Clay",
+      "tracking": {
+        "teamName": "Arizona Cardinals",
+        "leagueName": "NFL",
+        "sportName": "Football",
+        "byline": "Mike Clay",
+        "leagueId": "s:20~l:28",
+        "teamId": "s:20~l:28~t:22",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-32015903",
+        "contentType": "now",
+        "categories": "NFL, daily, list, Arizona Cardinals, Atlanta Falcons, Baltimore Ravens, Cincinnati Bengals, Cleveland Browns, Dallas Cowboys, Denver Broncos, Detroit Lions, Houston Texans, Kansas City Chiefs, Las Vegas Raiders, Los Angeles Rams, Minnesota Vikings, New England Patriots, New Orleans Saints, New York Jets, Pittsburgh Steelers, Tampa Bay Buccaneers, Washington, Jacksonville Jaguars",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "32015903",
+      "parentType": "now",
+      "parentDate": "2021-08-20T17:59:13Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "label": "NFL",
+      "isPremium": false
+    }
+  }, {
+    "id": "31946477",
+    "publishedDate": "2021-08-20T18:51:02Z",
+    "lastModified": "2021-08-20T18:50:47Z",
+    "type": "now",
+    "articleItems": [{
+      "id": 31946477,
+      "publishedDate": "2021-08-20T18:51:02Z",
+      "lastModified": "2021-08-20T18:50:47Z",
+      "type": "Story",
+      "isPremium": false,
+      "cellType": "article",
+      "cellStyle": "enhanced",
+      "nowId": "1-31946477",
+      "article": {
+        "headline": "NBA free agency 2021: Why it made sense for the Boston Celtics to give Robert Williams III an extension",
+        "images": {
+          "16:9": "https://secure.espncdn.com/photo/2021/0315/r827352_608x342_16-9.jpg",
+          "1:1": "https://secure.espncdn.com/photo/2021/0315/r827352_1296x1296_1-1.jpg",
+          "3:2": "https://secure.espncdn.com/photo/2021/0315/r827352_1296x864_3-2.jpg",
+          "5:2": "https://secure.espncdn.com/photo/2021/0315/r827352_1296x518_5-2.jpg",
+          "standard": "https://secure.espncdn.com/photo/2021/0315/r827352_608x342_16-9.jpg",
+          "photoCredit": "Dale Zanine-USA TODAY Sports"
+        },
+        "description": "",
+        "byline": "",
+        "linkText": "Why the Celtics signed Robert Williams III to an extension now",
+        "share": {
+          "headline": "NBA free agency 2021: Why it made sense for the Boston Celtics to give Robert Williams III an extension",
+          "description": "The Class of 2018 is up for contract extensions this summer. Here's who has signed so far and what it means for their teams.",
+          "link": {
+            "action": {
+              "url": "https://es.pn/3syZJHa",
+              "type": "externalLink",
+              "fullURL": "https://www.espn.com/nba/insider/story/_/id/31946477/nba-free-agency-2021-why-made-sense-boston-celtics-give-robert-williams-iii-extension"
+            },
+            "text": "Read Now"
+          }
+        },
+        "url": "https://www.espn.com/nba/insider/story/_/id/31946477/nba-free-agency-2021-why-made-sense-boston-celtics-give-robert-williams-iii-extension?partial=article&platform=ios&device=mobile&appArticleAds=true&useEPlus=true&country=cn",
+        "colorPrimary": "000000",
+        "category": "NBA"
+      },
+      "formattedTimestamp": "10d %@ Kevin Pelton",
+      "tracking": {
+        "teamName": "Boston Celtics",
+        "leagueName": "NBA",
+        "sportName": "Basketball",
+        "byline": "Kevin Pelton",
+        "leagueId": "s:40~l:46",
+        "teamId": "s:40~l:46~t:2",
+        "isPersonalized": false,
+        "personalizedType": "NO",
+        "isCurated": false,
+        "contentScore": 1,
+        "ruleName": "League Index Page Content",
+        "ruleNumber": "Not Applicable",
+        "contentId": "1-31946477",
+        "contentType": "now",
+        "categories": "NBA, daily, transaction, Boston Celtics, Robert Williams III",
+        "presentationType": "now, article, enhanced"
+      },
+      "parentId": "31946477",
+      "parentType": "now",
+      "parentDate": "2021-08-20T18:51:02Z"
+    }],
+    "header": {
+      "color": "000000",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+      "label": "NBA",
+      "isPremium": false
+    }
+  }]
+}

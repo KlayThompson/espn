@@ -1,3 +1,4 @@
+import 'package:espn/config/base_config.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -13,12 +14,15 @@ class WatchView extends GetView<WatchController> {
         centerTitle: true,
         brightness: Brightness.dark,
       ),
-      body: Center(
-        child: Text(
-          'WatchView is working',
-          style: TextStyle(fontSize: 20),
+      body: Container(
+        color: ColorConfig.mainColor,
+        child: Center(
+          child: Text(
+            'WatchView is working',
+            style: TextStyle(fontSize: 20, color: ColorConfig.white),
+          ),
         ),
-      ),
+      )
     );
   }
 }

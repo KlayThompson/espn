@@ -1,12 +1,22 @@
+import 'package:espn/config/base_config.dart';
+import 'package:espn/config/service.dart';
 import 'package:get/get.dart';
+
+import '../articles_model.dart';
 
 class EspnPlusController extends GetxController {
   //TODO: Implement EspnPlusController
 
-  final count = 0.obs;
+  var _loading = false;
+  bool get loading => _loading;
+
+  late Articles _articles = Articles();
+  Articles get articles => _articles;
+
   @override
   void onInit() {
     super.onInit();
+    getArticles();
   }
 
   @override
@@ -16,5 +26,12 @@ class EspnPlusController extends GetxController {
 
   @override
   void onClose() {}
-  void increment() => count.value++;
+
+  getArticles() async {
+    _loading = true;
+    await requestData(ServerPath.articles, 'get').then((value) {
+      _loading = false;
+      _articles = Articles.fromJson(value);
+    });
+  }
 }

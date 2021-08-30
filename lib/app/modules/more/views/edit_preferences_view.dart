@@ -56,7 +56,11 @@ class EditPreferencesView extends GetView {
                 height: 45,
                 child: Row(
                   children: [
-                    Icon(Icons.security_outlined, size: 26,),
+                    Image.network(
+                      'http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png',
+                      width: 26,
+                      height: 26,
+                    ),
                     SizedBox(width: 20,),
                     Text('Not following any teams', style: TextStyle(fontSize: 16),),
                   ],

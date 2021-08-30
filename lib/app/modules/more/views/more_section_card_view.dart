@@ -77,7 +77,7 @@ class MoreSectionCardView extends GetView {
           // print(items.image);
         return ListTile(
           leading: Image.network(
-            items.image!.startsWith('icon') ? 'http://via.placeholder.com/28x28' : items.image.toString(),
+            items.image!.startsWith('icon') ? 'http://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png' : items.image.toString(),
             width: 28,
             height: 28,
           ),
