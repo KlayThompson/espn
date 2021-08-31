@@ -1,6 +1,7 @@
 import 'package:espn/app/modules/more/views/edit_preferences_view.dart';
 import 'package:espn/app/modules/more/views/search_team_view.dart';
 import 'package:espn/app/modules/more/views/tap_team_view.dart';
+import 'package:espn/app/modules/share/view/webView-page.dart';
 import 'package:get/get.dart';
 
 import 'package:espn/app/modules/espn-plus/bindings/espn_plus_binding.dart';
@@ -66,5 +67,9 @@ class AppPages {
       name: _Paths.SEARCH_TEAM,
       page: () => SearchTeamView(),
     ),
+    GetPage(
+      name: _Paths.WEB_VIEW,
+      page: () => WebViewPage(),
+    ), //通用webView
   ];
 }

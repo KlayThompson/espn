@@ -30,6 +30,7 @@ abstract class ImagePath {
   static String espnPlusTitle = 'assets/images/ESPN_PLUS.png';
   static String defaultTeamLogo = 'assets/images/default-team-logo.png';
   static String articlesDefault = 'assets/images/articles-default.png';
+  static String articlesHeaderDefault = 'assets/images/articles-header-default.png';
 
 }
 

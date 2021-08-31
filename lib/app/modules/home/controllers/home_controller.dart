@@ -23,7 +23,7 @@ class HomeController extends GetxController {
 
   getHomeFeed() async {
     await requestData(ServerPath.homeFeed, 'get').then((value) => {
-      print(value)
+      print('Home data has been loaded')
     });
   }
 }

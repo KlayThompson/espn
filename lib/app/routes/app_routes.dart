@@ -13,6 +13,7 @@ abstract class Routes {
   static const EDIT_PREFERENCES = _Paths.EDIT_PREFERENCES;
   static const TAP_TEAM = _Paths.TAP_TEAM;
   static const SEARCH_TEAM = _Paths.SEARCH_TEAM;
+  static const WEB_VIEW = _Paths.WEB_VIEW;
 
 }
 
@@ -27,5 +28,7 @@ abstract class _Paths {
   static const EDIT_PREFERENCES = '/edit-preferences';
   static const TAP_TEAM = '/tap-team';
   static const SEARCH_TEAM = '/search-team';
+
+  static const WEB_VIEW = '/web-view';
 
 }
