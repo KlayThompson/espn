@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 class IndexController extends GetxController {
   //TODO: Implement IndexController
 
-  var tabIndex = 3;
+  var tabIndex = 2;
   var _darkBottom = true;
   bool get darkBottom => _darkBottom;
 

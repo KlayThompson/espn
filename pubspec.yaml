@@ -11,6 +11,8 @@ dependencies:
   dio: ^4.0.0
   flutter_screenutil: ^5.0.0
   flutter_webview_plugin: ^0.4.0
+  cached_network_image: ^3.1.0
+  card_swiper: ^1.0.4
   flutter:
     sdk: flutter
 
