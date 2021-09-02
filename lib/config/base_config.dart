@@ -40,6 +40,7 @@ abstract class ServerPath {
   static String tapTeamList = 'https://sportscenter.api.espn.com/apis/espnapp/v1/favoritesManagement?lang=en&region=us&profile=sportscenter_v1&platform=ios&device=handset&version=68&appName=espnapp&locale=CN&isPremium=false';
   static String articles = 'http://sportscenter.fan.api.espn.com/apis/v1/homefeed?index=mobilefrontpage&pubkey=espn-en-insider-index&useDarkTheme=true&isEplusTab=true&sportIndex=espnplus&&profile=sportscenter_v1&platform=ios&device=handset&supportedPackages=ESPN_PLUS&authorizedNetworks=espn_free&hasMVPDAuthedEver=false&lang=en&region=us&version=68&appName=espnapp&locale=CN&isPremium=false';
   static String featured = 'http://watch.product.api.espn.com/api/product/v3/mobile/espn/featured?authNetworks=espn_free&countryCode=US&device=handset&deviceType=handset&edition=usa&favoriteSport=s:40~l:46&features=openAuthz,promoTiles&geoCountryCode=CN&iapPackages=ESPN_PLUS&lang=en&platform=ios&profile=sportscenter_v1&tz=Asia/Shanghai&version=68&zipcode=?';
+  static String originals = 'http://watch.product.api.espn.com/api/product/v3/mobile/espn/originals?authNetworks=espn_free&countryCode=US&device=handset&deviceType=handset&edition=usa&favoriteSport=s:40~l:46&features=openAuthz,promoTiles&geoCountryCode=CN&iapPackages=ESPN_PLUS&lang=en&platform=ios&profile=sportscenter_v1&tz=Asia/Shanghai&version=68&zipcode=?';
 }
 
 abstract class SizeConfig {

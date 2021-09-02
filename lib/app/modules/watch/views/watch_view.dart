@@ -1,4 +1,5 @@
 import 'package:espn/app/modules/watch/views/featured_view.dart';
+import 'package:espn/app/modules/watch/views/originals_view.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -18,15 +19,7 @@ class WatchView extends GetView<WatchController> {
         child: TabBarView(
             children: [
               FeaturedView(),
-              Center(
-                  child: Container(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Text(
-                      'You cannot access this content outside of the US. For users in Europe and Asia, Visit ESPN Player[www.espnplayer.com]',
-                      style: TextStyle(color: ColorConfig.textColor, fontSize: 17, fontWeight: FontWeight.w500),
-                    ),
-                  )
-              ),
+              OriginalsView(),
             ]
         ),
       ),

@@ -20,7 +20,7 @@ class Featured5x2CellView extends StatelessWidget {
           common5x2CellHeader(),
           Container(
             width: SizeConfig.screenWidth,
-            height: ScreenUtil().setWidth(163),
+            height: ScreenUtil().setWidth(335)/(5/2),
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
               shrinkWrap: true,
@@ -71,6 +71,7 @@ class Featured5x2CellView extends StatelessWidget {
   Widget common5x2Cell(Contents content) {
     return Container(
       width: ScreenUtil().setWidth(335),
+      height: ScreenUtil().setWidth(335)/(5/2),
       padding: EdgeInsets.only(left: 10),
       child: ClipRRect(
         borderRadius: BorderRadius.circular(10),
