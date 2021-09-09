@@ -45,7 +45,6 @@ class WatchController extends GetxController {
     _loadingOriginals = true;
     await requestData(ServerPath.originals, 'get').then((value) {
       _loadingOriginals = false;
-      print(value);
       _originals = Feature.fromJson(value['page']);
       update();
     });

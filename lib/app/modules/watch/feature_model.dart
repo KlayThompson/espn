@@ -2,8 +2,8 @@ class Feature {
   String? name;
   String? layout;
   List<Buckets>? buckets;
-
-  Feature({this.name, this.layout, this.buckets});
+  OrdinalsHeader? header;
+  Feature({this.name, this.layout, this.buckets, this.header});
 
   Feature.fromJson(Map<String, dynamic> json) {
     name = json['name'];
@@ -14,6 +14,7 @@ class Feature {
         buckets!.add(Buckets.fromJson(v));
       });
     }
+    header = json['header'] != null ? new OrdinalsHeader.fromJson(json['header']) : null;
   }
 
   Map<String, dynamic> toJson() {
@@ -23,6 +24,71 @@ class Feature {
     if (buckets != null) {
       data['buckets'] = buckets!.map((v) => v.toJson()).toList();
     }
+    if (this.header != null) {
+      data['header'] = this.header!.toJson();
+    }
+    return data;
+  }
+}
+
+class OrdinalsHeader {
+  String? name;
+  String? description;
+  String? subtitle;
+  String? subtitleTwo;
+  OriginalsHeaderBackgroundImage? backgroundImage;
+
+  OrdinalsHeader(
+      {this.name,
+        this.description,
+        this.subtitle,
+        this.subtitleTwo,
+        this.backgroundImage});
+
+  OrdinalsHeader.fromJson(Map<String, dynamic> json) {
+    name = json['name'];
+    description = json['description'];
+    subtitle = json['subtitle'];
+    subtitleTwo = json['subtitleTwo'];
+    backgroundImage = json['backgroundImage'] != null
+        ? new OriginalsHeaderBackgroundImage.fromJson(json['backgroundImage'])
+        : null;
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['name'] = this.name;
+    data['description'] = this.description;
+    data['subtitle'] = this.subtitle;
+    data['subtitleTwo'] = this.subtitleTwo;
+    if (this.backgroundImage != null) {
+      data['backgroundImage'] = this.backgroundImage!.toJson();
+    }
+    return data;
+  }
+}
+
+class OriginalsHeaderBackgroundImage {
+  String? type;
+  String? href;
+  String? ratio;
+  String? imageFormat;
+
+  OriginalsHeaderBackgroundImage({this.type, this.href, this.ratio, this.imageFormat});
+
+  OriginalsHeaderBackgroundImage.fromJson(Map<String, dynamic> json) {
+    type = json['type'];
+    href = json['href'];
+    ratio = json['ratio'];
+    imageFormat = json['imageFormat'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['type'] = this.type;
+    data['href'] = this.href;
+    data['ratio'] = this.ratio;
+    data['imageFormat'] = this.imageFormat;
     return data;
   }
 }

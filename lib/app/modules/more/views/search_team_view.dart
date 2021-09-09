@@ -1,3 +1,4 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:espn/app/modules/more/controllers/search_team_controller.dart';
 import 'package:espn/app/modules/more/controllers/tap_team_controller.dart';
 import 'package:espn/config/base_config.dart';
@@ -108,7 +109,18 @@ class SearchTeamView extends GetView {
         children: [
           Container(
             padding: EdgeInsets.only(left: 20),
-            child: Image.network(team.image.toString(), width: ScreenUtil().setWidth(55), height: ScreenUtil().setWidth(55),),
+            child: CachedNetworkImage(
+              fit: BoxFit.cover,
+              width: ScreenUtil().setWidth(55),
+              height: ScreenUtil().setWidth(55),
+              imageUrl: team.image.toString(),
+              placeholder: (context, url) => Container(
+                color: ColorConfig.white,
+                width: ScreenUtil().setWidth(55),
+                height: ScreenUtil().setWidth(55),
+              ),
+              errorWidget: (context, url, error) => Icon(Icons.error),
+            )
           ),
           SizedBox(width: 20,),
           Expanded(

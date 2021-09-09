@@ -1,3 +1,4 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:espn/app/modules/more/controllers/tap_team_controller.dart';
 import 'package:espn/app/modules/share/view/activity-loading.dart';
 import 'package:espn/app/routes/app_pages.dart';
@@ -191,7 +192,11 @@ class TapTeamView extends GetView {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Image.network(item.logoURL.toString(), width: ScreenUtil().setWidth(47), height: ScreenUtil().setWidth(47),),
+          CachedNetworkImage(
+            imageUrl: item.logoURL.toString(),
+            width: ScreenUtil().setWidth(47),
+            height: ScreenUtil().setWidth(47),
+          ),
           SizedBox(height: 5,),
           Text(item.name.toString(), textAlign: TextAlign.center, style: TextStyle(color: Colors.black87),),
         ],

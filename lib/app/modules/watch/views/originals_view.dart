@@ -1,5 +1,6 @@
 import 'package:espn/app/modules/share/view/activity-loading.dart';
 import 'package:espn/app/modules/watch/controllers/watch_controller.dart';
+import 'package:espn/app/modules/watch/views/featured/originals_header_view.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/material.dart';
 
@@ -22,11 +23,8 @@ class OriginalsView extends GetView {
           return ActivityLoading();
         } else {
           return Container(
-            child: ListView.builder(
-              itemCount: watch.originals.buckets!.length,
-              itemBuilder: (context, index) {
-                return listViews(index, watch.originals);
-              },
+            child: ListView(
+               children: listViewChildren(watch.originals),
             ),
           );
         }
@@ -34,26 +32,33 @@ class OriginalsView extends GetView {
     );
   }
 
-
-  Widget listViews(int index, Feature feature) {
-    if (feature.buckets![index].metadata!.imageFormat.toString() == '16x9') {
-      return Featured16x9CellView(bucket: feature.buckets![index]);
-    } else if (feature.buckets![index].metadata!.imageFormat.toString() == 'circle') {
-      return FeaturedCircleCellView(bucket: feature.buckets![index]);
-    } else if (feature.buckets![index].metadata!.imageFormat.toString() == '5x2') {
-      return Featured5x2CellView(bucket: feature.buckets![index]);
-    } else if (feature.buckets![index].metadata!.imageFormat.toString() == '2x3') {
-      return Featured2x3CellView(bucket: feature.buckets![index]);
-    } else if (feature.buckets![index].metadata!.imageFormat.toString() == '4x3') {
-      return Featured4x3CellView(bucket: feature.buckets![index]);
-    } else if (feature.buckets![index].metadata!.imageFormat.toString() == '1x1') {
-      return Featured1x1CellView(bucket: feature.buckets![index]);
+  List<Widget> listViewChildren(Feature feature) {
+    List<Widget> views = [];
+    if (feature.header != null) {
+      views.add(OriginalsHeaderView(header: feature.header!,));
     }
-    return Container(
-      margin: EdgeInsets.only(bottom: 20),
-      height: 200,
-      width: SizeConfig.screenWidth,
-      color: Colors.deepPurpleAccent,
-    );
+    feature.buckets!.forEach((buckets) {
+      if (buckets.metadata!.imageFormat.toString() == '16x9') {
+        views.add(Featured16x9CellView(bucket: buckets));
+      } else if (buckets.metadata!.imageFormat.toString() == 'circle') {
+        views.add(FeaturedCircleCellView(bucket: buckets));
+      } else if (buckets.metadata!.imageFormat.toString() == '5x2') {
+        views.add(Featured5x2CellView(bucket: buckets));
+      } else if (buckets.metadata!.imageFormat.toString() == '2x3') {
+        views.add(Featured2x3CellView(bucket: buckets));
+      } else if (buckets.metadata!.imageFormat.toString() == '4x3') {
+        views.add(Featured4x3CellView(bucket: buckets));
+      } else if (buckets.metadata!.imageFormat.toString() == '1x1') {
+        views.add(Featured1x1CellView(bucket: buckets));
+      } else {
+        views.add(Container(
+          margin: EdgeInsets.only(bottom: 20),
+          height: 200,
+          width: SizeConfig.screenWidth,
+          color: Colors.deepPurpleAccent,
+        ));
+      }
+    });
+    return views;
   }
 }
