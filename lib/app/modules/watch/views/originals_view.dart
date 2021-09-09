@@ -23,8 +23,17 @@ class OriginalsView extends GetView {
           return ActivityLoading();
         } else {
           return Container(
-            child: ListView(
-               children: listViewChildren(watch.originals),
+            child: CustomScrollView(
+              slivers: [
+                SliverToBoxAdapter(
+                  child: OriginalsHeaderView(header: watch.originals.header!,),
+                ),
+                SliverList(
+                  delegate: SliverChildListDelegate(
+                    listViewChildren(watch.originals)
+                  ),
+                )
+              ],
             ),
           );
         }
@@ -34,9 +43,9 @@ class OriginalsView extends GetView {
 
   List<Widget> listViewChildren(Feature feature) {
     List<Widget> views = [];
-    if (feature.header != null) {
-      views.add(OriginalsHeaderView(header: feature.header!,));
-    }
+    // if (feature.header != null) {
+    //   views.add(OriginalsHeaderView(header: feature.header!,));
+    // }
     feature.buckets!.forEach((buckets) {
       if (buckets.metadata!.imageFormat.toString() == '16x9') {
         views.add(Featured16x9CellView(bucket: buckets));
