@@ -1,3 +1,4 @@
+import 'package:espn/app/modules/more/views/edit_preferences_view.dart';
 import 'package:espn/app/routes/app_pages.dart';
 import 'package:espn/config/base_config.dart';
 import 'package:flutter/cupertino.dart';
@@ -22,7 +23,7 @@ class MoreSectionCardView extends GetView {
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
         child: Column(
           children: [
-            _sectionHeader(sectionItem.label!.startsWith('FAVORITES')),
+            _sectionHeader(context, sectionItem.label!.startsWith('FAVORITES')),
             _sportSectionView(),
 
           ],
@@ -32,7 +33,7 @@ class MoreSectionCardView extends GetView {
   }
 
   // section header
-  Widget _sectionHeader(bool showEdit) {
+  Widget _sectionHeader(BuildContext context, bool showEdit) {
     return Container(
       width: SizeConfig.screenWidth,
       height: ScreenUtil().setHeight(52),
@@ -47,7 +48,8 @@ class MoreSectionCardView extends GetView {
                 Text(sectionItem.label.toString(), style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),),
                 InkWell(
                   onTap: () {
-                    Get.toNamed(Routes.EDIT_PREFERENCES);
+                    // Get.toNamed(Routes.EDIT_PREFERENCES);
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => EditPreferencesView(),fullscreenDialog: true));
                   },
                   child: Text(showEdit ? 'Edit' : '', style: TextStyle(color: Colors.blue),),
                 )
