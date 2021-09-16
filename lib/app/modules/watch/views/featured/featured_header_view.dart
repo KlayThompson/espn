@@ -19,7 +19,7 @@ class FeaturedHeaderViw extends StatelessWidget {
   Widget headerBannerView() {
     return Container(
       width: SizeConfig.screenWidth,
-      height: ScreenUtil().setWidth(280),
+      height: ScreenUtil().setWidth(285),
       padding: EdgeInsets.fromLTRB(0, 25, 0, 20),
       child: Swiper(
         // containerWidth: SizeConfig.screenWidth,
