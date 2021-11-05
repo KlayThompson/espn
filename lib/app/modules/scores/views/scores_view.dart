@@ -13,11 +13,15 @@ class ScoresView extends GetView<ScoresController> {
         centerTitle: true,
         brightness: Brightness.dark,
       ),
-      body: Center(
-        child: Text(
-          'ScoresView is working',
-          style: TextStyle(fontSize: 20),
-        ),
+      body: GetBuilder<ScoresController>(
+        builder: (_) {
+          return Center(
+            child: Text(
+              'ScoresView is working',
+              style: TextStyle(fontSize: 20),
+            ),
+          );
+        },
       ),
     );
   }

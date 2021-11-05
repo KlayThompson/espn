@@ -1,0 +1,495 @@
+{
+  "pivots": [
+    [{
+      "uid": "content:scores",
+      "label": "Top Events",
+      "image": "iconfont://&#57403;",
+      "image-dark": "iconfont://&#57403;",
+      "automationIdentifier": "pivot.content:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "Top Events",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }],
+    [{
+      "uid": "s:20~l:23~section:scores",
+      "label": "NCAAF",
+      "image": "https://secure.espncdn.com/redesign/assets/img/icons/ESPN-icon-football-college.png",
+      "automationIdentifier": "pivot.s:20~l:23~section:scores",
+      "type": "regular",
+      "pivotsChildren": [{
+        "uid": "s:20~l:23~g:999~section:scores",
+        "label": "Top 25",
+        "automationIdentifier": "switchblade.s:20~l:23~g:999~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Top 25",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:80~section:scores",
+        "label": "FBS (I-A)",
+        "automationIdentifier": "switchblade.s:20~l:23~g:80~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF FBS (I-A)",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:1~section:scores",
+        "label": "ACC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:1~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF ACC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:151~section:scores",
+        "label": "American",
+        "automationIdentifier": "switchblade.s:20~l:23~g:151~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF American",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:4~section:scores",
+        "label": "Big 12",
+        "automationIdentifier": "switchblade.s:20~l:23~g:4~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Big 12",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:5~section:scores",
+        "label": "Big Ten",
+        "automationIdentifier": "switchblade.s:20~l:23~g:5~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Big Ten",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:12~section:scores",
+        "label": "Conference USA",
+        "automationIdentifier": "switchblade.s:20~l:23~g:12~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Conference USA",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:18~section:scores",
+        "label": "FBS Indep.",
+        "automationIdentifier": "switchblade.s:20~l:23~g:18~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF FBS Indep.",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:15~section:scores",
+        "label": "MAC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:15~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF MAC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:17~section:scores",
+        "label": "Mountain West",
+        "automationIdentifier": "switchblade.s:20~l:23~g:17~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Mountain West",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:9~section:scores",
+        "label": "Pac-12",
+        "automationIdentifier": "switchblade.s:20~l:23~g:9~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Pac-12",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:8~section:scores",
+        "label": "SEC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:8~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF SEC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:37~section:scores",
+        "label": "Sun Belt",
+        "automationIdentifier": "switchblade.s:20~l:23~g:37~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Sun Belt",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:81~section:scores",
+        "label": "FCS (I-AA)",
+        "automationIdentifier": "switchblade.s:20~l:23~g:81~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF FCS (I-AA)",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:175~section:scores",
+        "label": "ASUN-WAC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:175~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF ASUN-WAC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:20~section:scores",
+        "label": "Big Sky",
+        "automationIdentifier": "switchblade.s:20~l:23~g:20~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Big Sky",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:40~section:scores",
+        "label": "Big South",
+        "automationIdentifier": "switchblade.s:20~l:23~g:40~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Big South",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:48~section:scores",
+        "label": "CAA",
+        "automationIdentifier": "switchblade.s:20~l:23~g:48~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF CAA",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:22~section:scores",
+        "label": "Ivy League",
+        "automationIdentifier": "switchblade.s:20~l:23~g:22~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Ivy League",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:24~section:scores",
+        "label": "MEAC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:24~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF MEAC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:21~section:scores",
+        "label": "MVFC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:21~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF MVFC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:25~section:scores",
+        "label": "NEC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:25~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF NEC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:26~section:scores",
+        "label": "Ohio Valley Conference",
+        "automationIdentifier": "switchblade.s:20~l:23~g:26~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Ohio Valley Conference",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:27~section:scores",
+        "label": "Patriot",
+        "automationIdentifier": "switchblade.s:20~l:23~g:27~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Patriot",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:28~section:scores",
+        "label": "Pioneer",
+        "automationIdentifier": "switchblade.s:20~l:23~g:28~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Pioneer",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:31~section:scores",
+        "label": "SWAC",
+        "automationIdentifier": "switchblade.s:20~l:23~g:31~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF SWAC",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:29~section:scores",
+        "label": "Southern",
+        "automationIdentifier": "switchblade.s:20~l:23~g:29~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Southern",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:30~section:scores",
+        "label": "Southland",
+        "automationIdentifier": "switchblade.s:20~l:23~g:30~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF Southland",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:57~section:scores",
+        "label": "NCAA Division II",
+        "automationIdentifier": "switchblade.s:20~l:23~g:57~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF NCAA Division II",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }, {
+        "uid": "s:20~l:23~g:58~section:scores",
+        "label": "NCAA Division III",
+        "automationIdentifier": "switchblade.s:20~l:23~g:58~section:scores",
+        "type": "regular",
+        "pivotsAnalytics": {
+          "league": "NCAAF NCAA Division III",
+          "isFavoriteLeague": false,
+          "hasFavoriteTeam": false,
+          "hasLiveGames": false,
+          "wasEditoriallyCurated": false
+        }
+      }],
+      "pivotsAnalytics": {
+        "league": "NCAA Football",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": true,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:1~l:10~section:scores",
+      "label": "MLB",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+      "automationIdentifier": "pivot.s:1~l:10~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "MLB",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": true,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:600~l:720~section:scores",
+      "label": "Bundesliga",
+      "image": "http://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+      "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/10.png",
+      "automationIdentifier": "pivot.s:600~l:720~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "German Bundesliga",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:600~l:740~section:scores",
+      "label": "LaLiga",
+      "image": "http://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+      "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/15.png",
+      "automationIdentifier": "pivot.s:600~l:740~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "Spanish LaLiga",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:600~l:700~section:scores",
+      "label": "EPL",
+      "image": "http://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+      "image-dark": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500-dark/PremierLeagueSoccer.png",
+      "automationIdentifier": "pivot.s:600~l:700~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "English Premier League",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:40~l:59~section:scores",
+      "label": "WNBA",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+      "image-dark": "https://a.espncdn.com/i/teamlogos/leagues/500-dark/wnba.png",
+      "automationIdentifier": "pivot.s:40~l:59~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "WNBA",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": true,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:3301~l:3321~section:scores",
+      "label": "UFC",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "automationIdentifier": "pivot.s:3301~l:3321~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "UFC",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "s:20~l:28~section:scores",
+      "label": "NFL",
+      "image": "http://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+      "automationIdentifier": "pivot.s:20~l:28~section:scores",
+      "type": "regular",
+      "pivotsAnalytics": {
+        "league": "NFL",
+        "isFavoriteLeague": false,
+        "hasFavoriteTeam": false,
+        "hasLiveGames": false,
+        "wasEditoriallyCurated": true
+      }
+    }, {
+      "uid": "content:sports_list",
+      "label": "See More",
+      "action": "sportscenter://x-callback-url/showClubhouse?uid=content:sports_list",
+      "automationIdentifier": "pivot.content:sports_list",
+      "type": "deeplink"
+    }]
+  ]
+}

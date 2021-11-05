@@ -41,6 +41,7 @@ abstract class ServerPath {
   static String articles = 'http://sportscenter.fan.api.espn.com/apis/v1/homefeed?index=mobilefrontpage&pubkey=espn-en-insider-index&useDarkTheme=true&isEplusTab=true&sportIndex=espnplus&&profile=sportscenter_v1&platform=ios&device=handset&supportedPackages=ESPN_PLUS&authorizedNetworks=espn_free&hasMVPDAuthedEver=false&lang=en&region=us&version=68&appName=espnapp&locale=CN&isPremium=false';
   static String featured = 'http://watch.product.api.espn.com/api/product/v3/mobile/espn/featured?authNetworks=espn_free&countryCode=US&device=handset&deviceType=handset&edition=usa&favoriteSport=s:40~l:46&features=openAuthz,promoTiles&geoCountryCode=CN&iapPackages=ESPN_PLUS&lang=en&platform=ios&profile=sportscenter_v1&tz=Asia/Shanghai&version=68&zipcode=?';
   static String originals = 'http://watch.product.api.espn.com/api/product/v3/mobile/espn/originals?authNetworks=espn_free&countryCode=US&device=handset&deviceType=handset&edition=usa&favoriteSport=s:40~l:46&features=openAuthz,promoTiles&geoCountryCode=CN&iapPackages=ESPN_PLUS&lang=en&platform=ios&profile=sportscenter_v1&tz=Asia/Shanghai&version=68&zipcode=?';
+  static String scores = 'http://sportscenter.fan.api.espn.com/apis/v2/events/top?ceId=4379198&competitorlimit=5&profile=sportscenter_v1&platform=ios&device=handset&supportedPackages=ESPN_PLUS,ESPN_PLUS_UFC_PPV_266&authorizedNetworks=espn_free&hasMVPDAuthedEver=false&swid=bf3d27cb-8591-400c-8cb4-d83a0d9ae641&lang=en&region=us&version=71&appName=espnapp&isPremium=false';
 }
 
 abstract class SizeConfig {
